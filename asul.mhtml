@@ -1,0 +1,3083 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www.codiva.io/p/6ad839d8-a971-4da3-bd64-f50d66fb20ed
+Subject: Codiva.io Fastest Cloud IDE
+Date: Fri, 8 Sep 2023 19:19:44 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--AWsi4gbz60zdKiDj7eJhZUSlLNY9fVP6pCJATC0OLi----"
+
+
+------MultipartBoundary--AWsi4gbz60zdKiDj7eJhZUSlLNY9fVP6pCJATC0OLi----
+Content-Type: text/html
+Content-ID: <frame-FF17814D9A7C709498D786D3B587FCA9@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.codiva.io/p/6ad839d8-a971-4da3-bd64-f50d66fb20ed
+
+<!DOCTYPE html><html><link rel=3D"stylesheet" href=3D"https://www.codiva.io=
+/css/project.css"><link rel=3D"stylesheet" href=3D"https://www.codiva.io/cs=
+s/modal.css"><head><meta http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css=
+-a68ef2a7-859e-45e1-b039-2b0e72671b0e@mhtml.blink" /><link rel=3D"styleshee=
+t" type=3D"text/css" href=3D"cid:css-d456a7a3-af82-4a26-a5aa-79dd65daa1bf@m=
+html.blink" />
+<title>Codiva.io Fastest Cloud IDE</title>
+
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+>
+<link rel=3D"stylesheet" href=3D"https://cdnjs.cloudflare.com/ajax/libs/fon=
+t-awesome/4.6.3/css/font-awesome.min.css">
+
+
+
+
+
+
+
+</head>
+<body>
+
+
+
+
+<link rel=3D"preconnect" href=3D"https://cdnjs.cloudflare.com/" crossorigin=
+=3D"">
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel=3D"stylesheet" href=3D"https://cdnjs.cloudflare.com/ajax/libs/cod=
+emirror/5.39.2/codemirror.min.css">
+<link rel=3D"stylesheet" href=3D"https://cdnjs.cloudflare.com/ajax/libs/cod=
+emirror/5.39.2/addon/lint/lint.min.css">
+<link rel=3D"stylesheet" href=3D"https://cdnjs.cloudflare.com/ajax/libs/cod=
+emirror/5.39.2/addon/hint/show-hint.css">
+
+
+
+
+
+
+
+
+
+<header id=3D"header" class=3D"header">
+<span class=3D"logo">
+<a href=3D"https://www.codiva.io/">Codiva.io</a>
+</span>
+
+<nav class=3D"top-nav">
+<ul>
+<li><a href=3D"https://www.codiva.io/blog">Blog</a></li>
+<li><a href=3D"https://www.codiva.io/profile">My Projects</a></li>
+<li><a href=3D"https://www.codiva.io/tutorials">Tutorials</a></li>
+</ul>
+</nav>
+
+<div class=3D"new-project">
+<ul>
+<li>
+<form id=3D"newProjectForm" action=3D"https://www.codiva.io/p/" method=3D"P=
+OST">
+
+<button id=3D"newProjectFastSubmit" type=3D"submit" class=3D"narrow-button =
+bg-green">New Project</button>
+</form>
+</li>
+
+</ul>
+</div>
+</header>
+<div class=3D"toolbar">
+<ul>
+<li class=3D"title">
+<div id=3D"projecttitle">
+:DDDDD
+</div>
+</li>
+<li class=3D"filestoggleli">
+<div>
+<input type=3D"checkbox" id=3D"fileexplorertoggle">
+<label for=3D"fileexplorertoggle">Files</label>
+</div>
+</li>
+<li>
+<input type=3D"checkbox" id=3D"sharetoggle">
+<label for=3D"sharetoggle" id=3D"sharetogglelabel">Share</label>
+</li>
+<li>
+<button id=3D"run" class=3D"icon fa-play-circle">Run</button>
+</li>
+</ul>
+</div>
+<div class=3D"mainContainer">
+<div id=3D"fileexplorer" class=3D" hide-fileexplorer">
+<div id=3D"folderTree" class=3D"folder-tree">
+<div id=3D"folderTree-folder-8"><input id=3D"folderTree-folder-checkbox-8" =
+type=3D"checkbox" class=3D"folder"><div class=3D"folder-name"><label for=3D=
+"folderTree-folder-checkbox-8" class=3D"folder-name-label">:DDDDD</label></=
+div><div class=3D"sub"><div id=3D"folderTree-folder-9"><input id=3D"folderT=
+ree-folder-checkbox-9" type=3D"checkbox" class=3D"folder"><div class=3D"fol=
+der-name"><label for=3D"folderTree-folder-checkbox-9" class=3D"folder-name-=
+label">bin</label></div><div class=3D"sub"><div class=3D"file-name" id=3D"f=
+olderTree-file-9"><a href=3D"https://www.codiva.io/p/6ad839d8-a971-4da3-bd6=
+4-f50d66fb20ed#file-~%2Fbin%2FMain.class" class=3D"file-name-link" data-fil=
+ename=3D"Main.class" data-basepath=3D"~/bin">Main.class</a><button class=3D=
+"edit-desc icon fa-trash"></button></div><div class=3D"file-name" id=3D"fol=
+derTree-file-10"><a href=3D"https://www.codiva.io/p/6ad839d8-a971-4da3-bd64=
+-f50d66fb20ed#file-~%2Fbin%2Fb.class" class=3D"file-name-link" data-filenam=
+e=3D"b.class" data-basepath=3D"~/bin">b.class</a><button class=3D"edit-desc=
+ icon fa-trash"></button></div><div class=3D"file-name" id=3D"folderTree-fi=
+le-11"><a href=3D"https://www.codiva.io/p/6ad839d8-a971-4da3-bd64-f50d66fb2=
+0ed#file-~%2Fbin%2Fasul.class" class=3D"file-name-link" data-filename=3D"as=
+ul.class" data-basepath=3D"~/bin">asul.class</a><button class=3D"edit-desc =
+icon fa-trash"></button></div><div class=3D"file-name" id=3D"folderTree-fil=
+e-12"><a href=3D"https://www.codiva.io/p/6ad839d8-a971-4da3-bd64-f50d66fb20=
+ed#file-~%2Fbin%2Fbat.class" class=3D"file-name-link" data-filename=3D"bat.=
+class" data-basepath=3D"~/bin">bat.class</a><button class=3D"edit-desc icon=
+ fa-trash"></button></div><div class=3D"file-name" id=3D"folderTree-file-13=
+"><a href=3D"https://www.codiva.io/p/6ad839d8-a971-4da3-bd64-f50d66fb20ed#f=
+ile-~%2Fbin%2Fbatu.class" class=3D"file-name-link" data-filename=3D"batu.cl=
+ass" data-basepath=3D"~/bin">batu.class</a><button class=3D"edit-desc icon =
+fa-trash"></button></div><div class=3D"file-name" id=3D"folderTree-file-14"=
+><a href=3D"https://www.codiva.io/p/6ad839d8-a971-4da3-bd64-f50d66fb20ed#fi=
+le-~%2Fbin%2Fbatukhan.class" class=3D"file-name-link" data-filename=3D"batu=
+khan.class" data-basepath=3D"~/bin">batukhan.class</a><button class=3D"edit=
+-desc icon fa-trash"></button></div></div></div><div id=3D"folderTree-folde=
+r-10"><input id=3D"folderTree-folder-checkbox-10" type=3D"checkbox" class=
+=3D"folder"><div class=3D"folder-name"><label for=3D"folderTree-folder-chec=
+kbox-10" class=3D"folder-name-label">data</label></div><div class=3D"sub"><=
+/div></div><div id=3D"folderTree-folder-11"><input id=3D"folderTree-folder-=
+checkbox-11" type=3D"checkbox" class=3D"folder"><div class=3D"folder-name">=
+<label for=3D"folderTree-folder-checkbox-11" class=3D"folder-name-label">sr=
+c</label></div><div class=3D"sub"><div class=3D"file-name" id=3D"folderTree=
+-file-15"><a href=3D"https://www.codiva.io/p/6ad839d8-a971-4da3-bd64-f50d66=
+fb20ed#file-~%2Fsrc%2FMain.java" class=3D"file-name-link" data-filename=3D"=
+Main.java" data-basepath=3D"~/src">Main.java</a><button class=3D"edit-desc =
+icon fa-cog"></button><div id=3D"rename-file-15" class=3D"file-rename-div">
+          <form id=3D"rename-file-form-15" class=3D"rename-file-form">
+            <input id=3D"file-newname-15" type=3D"text" value=3D"Main.java"=
+ data-filename=3D"Main.java" data-basepath=3D"~/src">
+            <button type=3D"submit" value=3D"Rename">Rename</button>
+            <button id=3D"renameFormCancelButton-15" value=3D"Cancel">Cance=
+l</button>
+            <button id=3D"deleteFileButton-15" type=3D"button" class=3D"ico=
+n fa-trash" value=3D"Delete File"></button>
+           =20
+          </form>
+        </div></div><div class=3D"file-name" id=3D"folderTree-file-16"><a h=
+ref=3D"https://www.codiva.io/p/6ad839d8-a971-4da3-bd64-f50d66fb20ed#file-~%=
+2Fsrc%2Fasul.java" class=3D"file-name-link" data-filename=3D"asul.java" dat=
+a-basepath=3D"~/src">asul.java</a><button class=3D"edit-desc icon fa-cog"><=
+/button><div id=3D"rename-file-16" class=3D"file-rename-div">
+          <form id=3D"rename-file-form-16" class=3D"rename-file-form">
+            <input id=3D"file-newname-16" type=3D"text" value=3D"asul.java"=
+ data-filename=3D"asul.java" data-basepath=3D"~/src">
+            <button type=3D"submit" value=3D"Rename">Rename</button>
+            <button id=3D"renameFormCancelButton-16" value=3D"Cancel">Cance=
+l</button>
+            <button id=3D"deleteFileButton-16" type=3D"button" class=3D"ico=
+n fa-trash" value=3D"Delete File"></button>
+           =20
+          </form>
+        </div></div></div></div></div></div>
+</div>
+</div>
+<div id=3D"workbench">
+<div id=3D"tabbed_pane">
+<ul id=3D"tabbed_pane_ul" class=3D"tabs">
+<li class=3D"newTab">
+<input type=3D"radio" name=3D"tabs" class=3D"tab-radio" checked=3D"true" id=
+=3D"tab-newTab">
+<label for=3D"tab-newTab" title=3D"New File" id=3D"label-newTab"><i class=
+=3D"fa fa-plus"></i></label>
+<div id=3D"tab-content-newTab" class=3D"tab-content">
+<div class=3D"CodeMirror cm-s-default">
+<div class=3D"div-newFileForm">
+<form id=3D"newFileForm" class=3D"infieldTopAlignedForm">
+<p id=3D"newFileInstruction">Create new file with extn .c for C, .cc for C+=
++, .java for Java or .py for Python </p>
+<ul>
+<li class=3D"full">
+<label class=3D"textLabels" id=3D"label-fileName" for=3D"text-fileName">Cla=
+ss / File Name : </label>
+<input class=3D"textInput" id=3D"text-fileName" type=3D"text">
+<datalist id=3D"exampleFileNameList">
+<option value=3D"HelloCodiva.java">
+</option></datalist>
+</li>
+<li class=3D"full" style=3D"display: none">
+<label class=3D"textLabels" id=3D"label-moduleName" for=3D"text-moduleName"=
+>Module Name : </label>
+<input class=3D"textInput" id=3D"text-moduleName" type=3D"text" list=3D"mod=
+uleNameList">
+<datalist id=3D"moduleNameList"></datalist>
+</li>
+<li class=3D"full" style=3D"display: none">
+<label class=3D"textLabels" id=3D"label-packageName" for=3D"text-packageNam=
+e">Package Name : </label>
+<input class=3D"textInput" id=3D"text-packageName" type=3D"text" list=3D"pa=
+ckageNameList">
+<datalist id=3D"packageNameList"></datalist>
+</li>
+<li class=3D"full">
+<label class=3D"textLabels" id=3D"label-directory" for=3D"text-directory">D=
+irectory : </label>
+<input class=3D"textInput" id=3D"text-directory" type=3D"text" list=3D"dire=
+ctoryList" value=3D"src/">
+<datalist id=3D"directoryList"></datalist>
+</li>
+</ul>
+<button type=3D"submit" value=3D"Create">Create</button>
+</form>
+</div>
+</div>
+</div>
+</li>
+<li><input type=3D"radio" name=3D"tabs" class=3D"tab-radio" checked=3D"true=
+" id=3D"tab-java-0"><label for=3D"tab-java-0" title=3D"Main.java">Main.java=
+</label><button>=E2=9C=96</button><div id=3D"tab-content-java-0" class=3D"t=
+ab-content"><textarea id=3D"text-java-0" value=3D"" style=3D"display: none;=
+"></textarea><div class=3D"CodeMirror cm-s-default"><div style=3D"overflow:=
+ hidden; position: relative; width: 3px; height: 0px; top: 0px; left: 0px;"=
+><textarea autocorrect=3D"off" autocapitalize=3D"off" spellcheck=3D"false" =
+style=3D"position: absolute; bottom: -1em; padding: 0px; width: 1000px; hei=
+ght: 1em; outline: none;" tabindex=3D"0"></textarea></div><div class=3D"Cod=
+eMirror-vscrollbar" tabindex=3D"-1" cm-not-content=3D"true" style=3D"width:=
+ 18px; pointer-events: none; display: block; bottom: 0px;"><div style=3D"mi=
+n-width: 1px; height: 574px;"></div></div><div class=3D"CodeMirror-hscrollb=
+ar" tabindex=3D"-1" cm-not-content=3D"true" style=3D"height: 18px; pointer-=
+events: none; display: block; right: 0px; left: 0px;"><div style=3D"height:=
+ 100%; min-height: 1px; width: 33px;"></div></div><div class=3D"CodeMirror-=
+scrollbar-filler" cm-not-content=3D"true"></div><div class=3D"CodeMirror-gu=
+tter-filler" cm-not-content=3D"true"></div><div class=3D"CodeMirror-scroll"=
+ tabindex=3D"-1"><div class=3D"CodeMirror-sizer" style=3D"margin-left: 46px=
+; margin-bottom: 0px; border-right-width: 30px; min-height: 24px; min-width=
+: 3px; padding-right: 0px; padding-bottom: 0px;"><div style=3D"position: re=
+lative; top: 0px;"><div class=3D"CodeMirror-lines" role=3D"presentation"><d=
+iv role=3D"presentation" style=3D"position: relative; outline: none;"><div =
+class=3D"CodeMirror-measure"><span><span>=E2=80=8B</span>x</span></div><div=
+ class=3D"CodeMirror-measure"><pre class=3D"CodeMirror-line" role=3D"presen=
+tation"><span role=3D"presentation" style=3D"padding-right: 0.1px;"><span c=
+lass=3D"cm-keyword">import</span> <span class=3D"cm-variable">java</span>.<=
+span class=3D"cm-variable">util</span>.<span class=3D"cm-variable">Scanner<=
+/span>;  </span></pre></div><div style=3D"position: relative; z-index: 1;">=
+</div><div class=3D"CodeMirror-cursors"></div><div class=3D"CodeMirror-code=
+" role=3D"presentation"><div style=3D"position: relative;"><div class=3D"Co=
+deMirror-gutter-wrapper" style=3D"left: -46px;"><div class=3D"CodeMirror-li=
+nenumber CodeMirror-gutter-elt" style=3D"left: 16px; width: 21px;">1</div><=
+/div><pre class=3D" CodeMirror-line " role=3D"presentation"><span role=3D"p=
+resentation" style=3D"padding-right: 0.1px;"><span cm-text=3D"">=E2=80=8B</=
+span></span></pre></div></div></div></div></div></div><div style=3D"positio=
+n: absolute; height: 30px; width: 1px; border-bottom: 0px solid transparent=
+; top: 24px;"></div><div class=3D"CodeMirror-gutters" style=3D"height: 54px=
+; left: 0px;"><div class=3D"CodeMirror-gutter CodeMirror-lint-markers"></di=
+v><div class=3D"CodeMirror-gutter breakpoints"></div><div class=3D"CodeMirr=
+or-gutter CodeMirror-linenumbers" style=3D"width: 29px;"></div></div></div>=
+</div></div></li><li><input type=3D"radio" name=3D"tabs" class=3D"tab-radio=
+" checked=3D"true" id=3D"tab-java-1"><label for=3D"tab-java-1" title=3D"asu=
+l.java">asul.java</label><button>=E2=9C=96</button><div id=3D"tab-content-j=
+ava-1" class=3D"tab-content"><textarea id=3D"text-java-1" value=3D"" style=
+=3D"display: none;"></textarea><div class=3D"CodeMirror cm-s-default CodeMi=
+rror-focused"><div style=3D"overflow: hidden; position: relative; width: 3p=
+x; height: 0px; top: 116px; left: 370px;"><textarea autocorrect=3D"off" aut=
+ocapitalize=3D"off" spellcheck=3D"false" style=3D"position: absolute; botto=
+m: -1em; padding: 0px; width: 1000px; height: 1em; outline: none;" tabindex=
+=3D"0"></textarea></div><div class=3D"CodeMirror-vscrollbar" tabindex=3D"-1=
+" cm-not-content=3D"true" style=3D"width: 18px; pointer-events: none; displ=
+ay: block; bottom: 0px;"><div style=3D"min-width: 1px; height: 600px;"></di=
+v></div><div class=3D"CodeMirror-hscrollbar" tabindex=3D"-1" cm-not-content=
+=3D"true" style=3D"height: 18px; pointer-events: none; display: block; righ=
+t: 0px; left: 46px;"><div style=3D"height: 100%; min-height: 1px; width: 31=
+75px;"></div></div><div class=3D"CodeMirror-scrollbar-filler" cm-not-conten=
+t=3D"true"></div><div class=3D"CodeMirror-gutter-filler" cm-not-content=3D"=
+true"></div><div class=3D"CodeMirror-scroll" tabindex=3D"-1" draggable=3D"f=
+alse"><div class=3D"CodeMirror-sizer" style=3D"margin-left: 46px; margin-bo=
+ttom: 0px; border-right-width: 30px; min-height: 600px; min-width: 3175px; =
+padding-right: 0px; padding-bottom: 0px;"><div style=3D"position: relative;=
+ top: 0px;"><div class=3D"CodeMirror-lines" role=3D"presentation"><div role=
+=3D"presentation" style=3D"position: relative; outline: none;"><div class=
+=3D"CodeMirror-measure"><pre>x</pre></div><div class=3D"CodeMirror-measure"=
+></div><div style=3D"position: relative; z-index: 1;"></div><div class=3D"C=
+odeMirror-cursors" style=3D""><div class=3D"CodeMirror-cursor" style=3D"lef=
+t: 324px; top: 112px; height: 16px;">&nbsp;</div></div><div class=3D"CodeMi=
+rror-code" role=3D"presentation" style=3D""><div style=3D"position: relativ=
+e;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -46px;"><div cl=
+ass=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 16px; wi=
+dth: 21px;">1</div></div><pre class=3D" CodeMirror-line " role=3D"presentat=
+ion"><span role=3D"presentation" style=3D"padding-right: 0.1px;"><span clas=
+s=3D"cm-keyword">import</span> <span class=3D"cm-variable">java</span>.<spa=
+n class=3D"cm-variable">util</span>.<span class=3D"cm-variable">Scanner</sp=
+an>;  </span></pre></div><div style=3D"position: relative;"><div class=3D"C=
+odeMirror-gutter-wrapper" style=3D"left: -46px;"><div class=3D"CodeMirror-l=
+inenumber CodeMirror-gutter-elt" style=3D"left: 16px; width: 21px;">2</div>=
+</div><pre class=3D" CodeMirror-line " role=3D"presentation"><span role=3D"=
+presentation" style=3D"padding-right: 0.1px;"><span cm-text=3D"">=E2=80=8B<=
+/span></span></pre></div><div style=3D"position: relative;"><div class=3D"C=
+odeMirror-gutter-wrapper" style=3D"left: -46px;"><div class=3D"CodeMirror-l=
+inenumber CodeMirror-gutter-elt" style=3D"left: 16px; width: 21px;">3</div>=
+</div><pre class=3D" CodeMirror-line " role=3D"presentation"><span role=3D"=
+presentation" style=3D"padding-right: 0.1px;"><span class=3D"cm-keyword">cl=
+ass</span> <span class=3D"cm-def">asul</span> {</span></pre></div><div styl=
+e=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D=
+"left: -46px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" s=
+tyle=3D"left: 16px; width: 21px;">4</div></div><pre class=3D" CodeMirror-li=
+ne " role=3D"presentation"><span role=3D"presentation" style=3D"padding-rig=
+ht: 0.1px;">  <span class=3D"cm-keyword">public</span> <span class=3D"cm-ke=
+yword">static</span> <span class=3D"cm-type">void</span> <span class=3D"cm-=
+variable">main</span>(<span class=3D"cm-type">String</span>[] <span class=
+=3D"cm-variable">args</span>) {</span></pre></div><div style=3D"position: r=
+elative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -46px;"><=
+div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 16=
+px; width: 21px;">5</div></div><pre class=3D" CodeMirror-line " role=3D"pre=
+sentation"><span role=3D"presentation" style=3D"padding-right: 0.1px;">    =
+<span class=3D"cm-variable">Scanner</span> <span class=3D"cm-variable">main=
+</span> <span class=3D"cm-operator">=3D</span> <span class=3D"cm-keyword">n=
+ew</span> <span class=3D"cm-variable">Scanner</span>(<span class=3D"cm-vari=
+able">System</span>.<span class=3D"cm-variable">in</span>);  </span></pre><=
+/div><div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wra=
+pper" style=3D"left: -46px;"><div class=3D"CodeMirror-linenumber CodeMirror=
+-gutter-elt" style=3D"left: 16px; width: 21px;">6</div></div><pre class=3D"=
+ CodeMirror-line " role=3D"presentation"><span role=3D"presentation" style=
+=3D"padding-right: 0.1px;">    <span class=3D"cm-variable">System</span>.<s=
+pan class=3D"cm-variable">out</span>.<span class=3D"cm-variable">println</s=
+pan>(<span class=3D"cm-string">"enter something you did last night"</span>)=
+;</span></pre></div><div style=3D"position: relative;"><div class=3D"CodeMi=
+rror-gutter-wrapper" style=3D"left: -46px;"><div class=3D"CodeMirror-linenu=
+mber CodeMirror-gutter-elt" style=3D"left: 16px; width: 21px;">7</div></div=
+><pre class=3D" CodeMirror-line " role=3D"presentation"><span role=3D"prese=
+ntation" style=3D"padding-right: 0.1px;">    <span class=3D"cm-type">String=
+</span> <span class=3D"cm-variable">var1</span> <span class=3D"cm-operator"=
+>=3D</span> <span class=3D"cm-variable">main</span>.<span class=3D"cm-varia=
+ble">nextLine</span>();  </span></pre></div><div style=3D"position: relativ=
+e;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -46px;"><div cl=
+ass=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 16px; wi=
+dth: 21px;">8</div></div><pre class=3D" CodeMirror-line " role=3D"presentat=
+ion"><span role=3D"presentation" style=3D"padding-right: 0.1px;">    <span =
+class=3D"cm-variable">System</span>.<span class=3D"cm-variable">out</span>.=
+<span class=3D"cm-variable">println</span>(<span class=3D"cm-string">"enter=
+ a place"</span>);</span></pre></div><div style=3D"position: relative;"><di=
+v class=3D"CodeMirror-gutter-wrapper" style=3D"left: -46px;"><div class=3D"=
+CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 16px; width: 21=
+px;">9</div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><s=
+pan role=3D"presentation" style=3D"padding-right: 0.1px;">    <span class=
+=3D"cm-type">String</span> <span class=3D"cm-variable">var2</span> <span cl=
+ass=3D"cm-operator">=3D</span> <span class=3D"cm-variable">main</span>.<spa=
+n class=3D"cm-variable">nextLine</span>();</span></pre></div><div style=3D"=
+position: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left=
+: -46px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=
+=3D"left: 16px; width: 21px;">10</div></div><pre class=3D" CodeMirror-line =
+" role=3D"presentation"><span role=3D"presentation" style=3D"padding-right:=
+ 0.1px;">    <span class=3D"cm-variable">System</span>.<span class=3D"cm-va=
+riable">out</span>.<span class=3D"cm-variable">println</span>(<span class=
+=3D"cm-string">"enter an object"</span>);</span></pre></div><div style=3D"p=
+osition: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left:=
+ -46px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=
+=3D"left: 16px; width: 21px;">11</div></div><pre class=3D" CodeMirror-line =
+" role=3D"presentation"><span role=3D"presentation" style=3D"padding-right:=
+ 0.1px;">    <span class=3D"cm-type">String</span> <span class=3D"cm-variab=
+le">var3</span> <span class=3D"cm-operator">=3D</span> <span class=3D"cm-va=
+riable">main</span>.<span class=3D"cm-variable">nextLine</span>();</span></=
+pre></div><div style=3D"position: relative;"><div class=3D"CodeMirror-gutte=
+r-wrapper" style=3D"left: -46px;"><div class=3D"CodeMirror-linenumber CodeM=
+irror-gutter-elt" style=3D"left: 16px; width: 21px;">12</div></div><pre cla=
+ss=3D" CodeMirror-line " role=3D"presentation"><span role=3D"presentation" =
+style=3D"padding-right: 0.1px;">    <span class=3D"cm-variable">System</spa=
+n>.<span class=3D"cm-variable">out</span>.<span class=3D"cm-variable">print=
+ln</span>(<span class=3D"cm-string">"enter an object"</span>);</span></pre>=
+</div><div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wr=
+apper" style=3D"left: -46px;"><div class=3D"CodeMirror-linenumber CodeMirro=
+r-gutter-elt" style=3D"left: 16px; width: 21px;">13</div></div><pre class=
+=3D" CodeMirror-line " role=3D"presentation"><span role=3D"presentation" st=
+yle=3D"padding-right: 0.1px;">    <span class=3D"cm-type">String</span> <sp=
+an class=3D"cm-variable">var4</span> <span class=3D"cm-operator">=3D</span>=
+ <span class=3D"cm-variable">main</span>.<span class=3D"cm-variable">nextLi=
+ne</span>();</span></pre></div><div style=3D"position: relative;"><div clas=
+s=3D"CodeMirror-gutter-wrapper" style=3D"left: -46px;"><div class=3D"CodeMi=
+rror-linenumber CodeMirror-gutter-elt" style=3D"left: 16px; width: 21px;">1=
+4</div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><span r=
+ole=3D"presentation" style=3D"padding-right: 0.1px;">    <span class=3D"cm-=
+variable">System</span>.<span class=3D"cm-variable">out</span>.<span class=
+=3D"cm-variable">println</span>(<span class=3D"cm-string">"enter a verb in =
+past tense"</span>);</span></pre></div><div style=3D"position: relative;"><=
+div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -46px;"><div class=
+=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 16px; width=
+: 21px;">15</div></div><pre class=3D" CodeMirror-line " role=3D"presentatio=
+n"><span role=3D"presentation" style=3D"padding-right: 0.1px;">    <span cl=
+ass=3D"cm-type">String</span> <span class=3D"cm-variable">var5</span> <span=
+ class=3D"cm-operator">=3D</span> <span class=3D"cm-variable">main</span>.<=
+span class=3D"cm-variable">nextLine</span>();</span></pre></div><div style=
+=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"=
+left: -46px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" st=
+yle=3D"left: 16px; width: 21px;">16</div></div><pre class=3D" CodeMirror-li=
+ne " role=3D"presentation"><span role=3D"presentation" style=3D"padding-rig=
+ht: 0.1px;">    <span class=3D"cm-variable">System</span>.<span class=3D"cm=
+-variable">out</span>.<span class=3D"cm-variable">println</span>(<span clas=
+s=3D"cm-string">"enter an object"</span>);</span></pre></div><div style=3D"=
+position: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left=
+: -46px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=
+=3D"left: 16px; width: 21px;">17</div></div><pre class=3D" CodeMirror-line =
+" role=3D"presentation"><span role=3D"presentation" style=3D"padding-right:=
+ 0.1px;">    <span class=3D"cm-type">String</span> <span class=3D"cm-variab=
+le">var6</span> <span class=3D"cm-operator">=3D</span> <span class=3D"cm-va=
+riable">main</span>.<span class=3D"cm-variable">nextLine</span>();</span></=
+pre></div><div style=3D"position: relative;"><div class=3D"CodeMirror-gutte=
+r-wrapper" style=3D"left: -46px;"><div class=3D"CodeMirror-linenumber CodeM=
+irror-gutter-elt" style=3D"left: 16px; width: 21px;">18</div></div><pre cla=
+ss=3D" CodeMirror-line " role=3D"presentation"><span role=3D"presentation" =
+style=3D"padding-right: 0.1px;">    <span class=3D"cm-variable">System</spa=
+n>.<span class=3D"cm-variable">out</span>.<span class=3D"cm-variable">print=
+ln</span>(<span class=3D"cm-string">"enter an object"</span>);</span></pre>=
+</div><div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wr=
+apper" style=3D"left: -46px;"><div class=3D"CodeMirror-linenumber CodeMirro=
+r-gutter-elt" style=3D"left: 16px; width: 21px;">19</div></div><pre class=
+=3D" CodeMirror-line " role=3D"presentation"><span role=3D"presentation" st=
+yle=3D"padding-right: 0.1px;">    <span class=3D"cm-type">String</span> <sp=
+an class=3D"cm-variable">var7</span> <span class=3D"cm-operator">=3D</span>=
+ <span class=3D"cm-variable">main</span>.<span class=3D"cm-variable">nextLi=
+ne</span>();</span></pre></div><div style=3D"position: relative;"><div clas=
+s=3D"CodeMirror-gutter-wrapper" style=3D"left: -46px;"><div class=3D"CodeMi=
+rror-linenumber CodeMirror-gutter-elt" style=3D"left: 16px; width: 21px;">2=
+0</div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><span r=
+ole=3D"presentation" style=3D"padding-right: 0.1px;">    <span class=3D"cm-=
+variable">System</span>.<span class=3D"cm-variable">out</span>.<span class=
+=3D"cm-variable">println</span>(<span class=3D"cm-string">"enter a celebrit=
+y"</span>);</span></pre></div><div style=3D"position: relative;"><div class=
+=3D"CodeMirror-gutter-wrapper" style=3D"left: -46px;"><div class=3D"CodeMir=
+ror-linenumber CodeMirror-gutter-elt" style=3D"left: 16px; width: 21px;">21=
+</div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><span ro=
+le=3D"presentation" style=3D"padding-right: 0.1px;">    <span class=3D"cm-t=
+ype">String</span> <span class=3D"cm-variable">var8</span> <span class=3D"c=
+m-operator">=3D</span> <span class=3D"cm-variable">main</span>.<span class=
+=3D"cm-variable">nextLine</span>();</span></pre></div><div style=3D"positio=
+n: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -46px=
+;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left=
+: 16px; width: 21px;">22</div></div><pre class=3D" CodeMirror-line " role=
+=3D"presentation"><span role=3D"presentation" style=3D"padding-right: 0.1px=
+;">    <span class=3D"cm-variable">System</span>.<span class=3D"cm-variable=
+">out</span>.<span class=3D"cm-variable">println</span>(<span class=3D"cm-s=
+tring">"enter an object"</span>);</span></pre></div><div style=3D"position:=
+ relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -46px;"=
+><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: =
+16px; width: 21px;">23</div></div><pre class=3D" CodeMirror-line " role=3D"=
+presentation"><span role=3D"presentation" style=3D"padding-right: 0.1px;"> =
+   <span class=3D"cm-type">String</span> <span class=3D"cm-variable">var9</=
+span> <span class=3D"cm-operator">=3D</span> <span class=3D"cm-variable">ma=
+in</span>.<span class=3D"cm-variable">nextLine</span>();</span></pre></div>=
+<div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper"=
+ style=3D"left: -46px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutt=
+er-elt" style=3D"left: 16px; width: 21px;">24</div></div><pre class=3D" Cod=
+eMirror-line " role=3D"presentation"><span role=3D"presentation" style=3D"p=
+adding-right: 0.1px;">    <span class=3D"cm-variable">System</span>.<span c=
+lass=3D"cm-variable">out</span>.<span class=3D"cm-variable">println</span>(=
+<span class=3D"cm-string">"enter an object"</span>);</span></pre></div><div=
+ style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" sty=
+le=3D"left: -46px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-e=
+lt" style=3D"left: 16px; width: 21px;">25</div></div><pre class=3D" CodeMir=
+ror-line " role=3D"presentation"><span role=3D"presentation" style=3D"paddi=
+ng-right: 0.1px;">    <span class=3D"cm-type">String</span> <span class=3D"=
+cm-variable">var10</span> <span class=3D"cm-operator">=3D</span> <span clas=
+s=3D"cm-variable">main</span>.<span class=3D"cm-variable">nextLine</span>()=
+;</span></pre></div><div style=3D"position: relative;"><div class=3D"CodeMi=
+rror-gutter-wrapper" style=3D"left: -46px;"><div class=3D"CodeMirror-linenu=
+mber CodeMirror-gutter-elt" style=3D"left: 16px; width: 21px;">26</div></di=
+v><pre class=3D" CodeMirror-line " role=3D"presentation"><span role=3D"pres=
+entation" style=3D"padding-right: 0.1px;">    <span class=3D"cm-variable">S=
+ystem</span>.<span class=3D"cm-variable">out</span>.<span class=3D"cm-varia=
+ble">println</span>(<span class=3D"cm-string">"enter an object or a part of=
+ the celebrity's body"</span>);</span></pre></div><div style=3D"position: r=
+elative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -46px;"><=
+div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 16=
+px; width: 21px;">27</div></div><pre class=3D" CodeMirror-line " role=3D"pr=
+esentation"><span role=3D"presentation" style=3D"padding-right: 0.1px;">   =
+ <span class=3D"cm-type">String</span> <span class=3D"cm-variable">var11</s=
+pan> <span class=3D"cm-operator">=3D</span> <span class=3D"cm-variable">mai=
+n</span>.<span class=3D"cm-variable">nextLine</span>();</span></pre></div><=
+div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" =
+style=3D"left: -46px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutte=
+r-elt" style=3D"left: 16px; width: 21px;">28</div></div><pre class=3D" Code=
+Mirror-line " role=3D"presentation"><span role=3D"presentation" style=3D"pa=
+dding-right: 0.1px;">    <span class=3D"cm-variable">System</span>.<span cl=
+ass=3D"cm-variable">out</span>.<span class=3D"cm-variable">println</span>(<=
+span class=3D"cm-string">"enter a sentense/quote"</span>);</span></pre></di=
+v><div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrappe=
+r" style=3D"left: -46px;"><div class=3D"CodeMirror-linenumber CodeMirror-gu=
+tter-elt" style=3D"left: 16px; width: 21px;">29</div></div><pre class=3D" C=
+odeMirror-line " role=3D"presentation"><span role=3D"presentation" style=3D=
+"padding-right: 0.1px;">    <span class=3D"cm-type">String</span> <span cla=
+ss=3D"cm-variable">var12</span> <span class=3D"cm-operator">=3D</span> <spa=
+n class=3D"cm-variable">main</span>.<span class=3D"cm-variable">nextLine</s=
+pan>();</span></pre></div><div style=3D"position: relative;"><div class=3D"=
+CodeMirror-gutter-wrapper" style=3D"left: -46px;"><div class=3D"CodeMirror-=
+linenumber CodeMirror-gutter-elt" style=3D"left: 16px; width: 21px;">30</di=
+v></div><pre class=3D" CodeMirror-line " role=3D"presentation"><span role=
+=3D"presentation" style=3D"padding-right: 0.1px;">    <span class=3D"cm-var=
+iable">System</span>.<span class=3D"cm-variable">out</span>.<span class=3D"=
+cm-variable">println</span>(<span class=3D"cm-string">"enter something you =
+own"</span>);</span></pre></div><div style=3D"position: relative;"><div cla=
+ss=3D"CodeMirror-gutter-wrapper" style=3D"left: -46px;"><div class=3D"CodeM=
+irror-linenumber CodeMirror-gutter-elt" style=3D"left: 16px; width: 21px;">=
+31</div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><span =
+role=3D"presentation" style=3D"padding-right: 0.1px;">    <span class=3D"cm=
+-type">String</span> <span class=3D"cm-variable">var13</span> <span class=
+=3D"cm-operator">=3D</span> <span class=3D"cm-variable">main</span>.<span c=
+lass=3D"cm-variable">nextLine</span>();</span></pre></div><div style=3D"pos=
+ition: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -=
+46px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"=
+left: 16px; width: 21px;">32</div></div><pre class=3D" CodeMirror-line " ro=
+le=3D"presentation"><span role=3D"presentation" style=3D"padding-right: 0.1=
+px;">    <span class=3D"cm-variable">System</span>.<span class=3D"cm-variab=
+le">out</span>.<span class=3D"cm-variable">println</span>(<span class=3D"cm=
+-string">"I forgor fart &gt;:( hamkachan :index_pointing_at_the_viewer:"</s=
+pan>);</span></pre></div><div style=3D"position: relative;"><div class=3D"C=
+odeMirror-gutter-wrapper" style=3D"left: -46px;"><div class=3D"CodeMirror-l=
+inenumber CodeMirror-gutter-elt" style=3D"left: 16px; width: 21px;">33</div=
+></div><pre class=3D" CodeMirror-line " role=3D"presentation"><span role=3D=
+"presentation" style=3D"padding-right: 0.1px;">    </span></pre></div><div =
+style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" styl=
+e=3D"left: -46px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-el=
+t" style=3D"left: 16px; width: 21px;">34</div></div><pre class=3D" CodeMirr=
+or-line " role=3D"presentation"><span role=3D"presentation" style=3D"paddin=
+g-right: 0.1px;">    </span></pre></div><div style=3D"position: relative;">=
+<div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -46px;"><div class=
+=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 16px; width=
+: 21px;">35</div></div><pre class=3D" CodeMirror-line " role=3D"presentatio=
+n"><span role=3D"presentation" style=3D"padding-right: 0.1px;">    <span cl=
+ass=3D"cm-variable">System</span>.<span class=3D"cm-variable">out</span>.<s=
+pan class=3D"cm-variable">println</span>(<span class=3D"cm-string">"After "=
+</span><span class=3D"cm-operator">+</span><span class=3D"cm-variable">var1=
+</span><span class=3D"cm-operator">+</span><span class=3D"cm-string">" last=
+ night, you woke up in a "</span><span class=3D"cm-operator">+</span><span =
+class=3D"cm-variable">var2</span><span class=3D"cm-operator">+</span><span =
+class=3D"cm-string">". You grabbed the "</span><span class=3D"cm-operator">=
++</span><span class=3D"cm-variable">var3</span><span class=3D"cm-operator">=
++</span><span class=3D"cm-string">" on the side of your "</span><span class=
+=3D"cm-operator">+</span><span class=3D"cm-variable">var13</span><span clas=
+s=3D"cm-operator">+</span><span class=3D"cm-string">" on top of the "</span=
+><span class=3D"cm-operator">+</span><span class=3D"cm-variable">var4</span=
+><span class=3D"cm-operator">+</span><span class=3D"cm-string">" and you "<=
+/span><span class=3D"cm-operator">+</span><span class=3D"cm-variable">var5<=
+/span><span class=3D"cm-operator">+</span><span class=3D"cm-string">" towar=
+ds the "</span><span class=3D"cm-operator">+</span><span class=3D"cm-variab=
+le">var6</span><span class=3D"cm-operator">+</span><span class=3D"cm-string=
+">". You pulled open the "</span><span class=3D"cm-operator">+</span><span =
+class=3D"cm-variable">var7</span><span class=3D"cm-operator">+</span><span =
+class=3D"cm-string">" and fell on your knees=E2=80=94You see "</span><span =
+class=3D"cm-operator">+</span><span class=3D"cm-variable">var8</span><span =
+class=3D"cm-operator">+</span><span class=3D"cm-string">" holding "</span><=
+span class=3D"cm-operator">+</span><span class=3D"cm-variable">var9</span><=
+span class=3D"cm-operator">+</span><span class=3D"cm-string">" stepping on =
+a "</span><span class=3D"cm-operator">+</span><span class=3D"cm-variable">v=
+ar10</span><span class=3D"cm-operator">+</span><span class=3D"cm-string">".=
+ after crushing the "</span><span class=3D"cm-operator">+</span><span class=
+=3D"cm-variable">var10</span><span class=3D"cm-operator">+</span><span clas=
+s=3D"cm-string">" with his "</span><span class=3D"cm-operator">+</span><spa=
+n class=3D"cm-variable">var11</span><span class=3D"cm-operator">+</span><sp=
+an class=3D"cm-string">" he looked at you and said: =E2=80=9C"</span><span =
+class=3D"cm-operator">+</span><span class=3D"cm-variable">var12</span><span=
+ class=3D"cm-operator">+</span><span class=3D"cm-string">"=E2=80=9D."</span=
+>);</span></pre></div><div style=3D"position: relative;"><div class=3D"Code=
+Mirror-gutter-wrapper" style=3D"left: -46px;"><div class=3D"CodeMirror-line=
+number CodeMirror-gutter-elt" style=3D"left: 16px; width: 21px;">36</div></=
+div><pre class=3D" CodeMirror-line " role=3D"presentation"><span role=3D"pr=
+esentation" style=3D"padding-right: 0.1px;">  }</span></pre></div><div styl=
+e=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D=
+"left: -46px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" s=
+tyle=3D"left: 16px; width: 21px;">37</div></div><pre class=3D" CodeMirror-l=
+ine " role=3D"presentation"><span role=3D"presentation" style=3D"padding-ri=
+ght: 0.1px;">}</span></pre></div></div></div></div></div></div><div style=
+=3D"position: absolute; height: 30px; width: 1px; border-bottom: 0px solid =
+transparent; top: 600px;"></div><div class=3D"CodeMirror-gutters" style=3D"=
+height: 630px; left: 0px;"><div class=3D"CodeMirror-gutter CodeMirror-lint-=
+markers"></div><div class=3D"CodeMirror-gutter breakpoints"></div><div clas=
+s=3D"CodeMirror-gutter CodeMirror-linenumbers" style=3D"width: 29px;"></div=
+></div></div></div></div></li></ul></div>
+</div>
+<input type=3D"checkbox" id=3D"consoletoggle">
+<label for=3D"consoletoggle">Slide</label>
+<div id=3D"console" tabindex=3D"0">
+<div class=3D"resizer" id=3D"dragMe"></div>
+<p></p>
+<ul id=3D"console_tabs_ul" class=3D"tabs">
+<li id=3D"console_tab_intro">
+<label for=3D"run" id=3D"runReminder" class=3D"consoleReminder">Click 'Run'=
+ to run this program.</label>
+<p id=3D"filesReminder" class=3D"consoleReminder">Check Files explorer to s=
+ee all files.</p>
+</li>
+</ul>
+</div>
+</div>
+<div id=3D"signinModal" class=3D"modalDialog">
+<div class=3D"signin">
+<a href=3D"https://www.codiva.io/p/6ad839d8-a971-4da3-bd64-f50d66fb20ed#" t=
+itle=3D"Close" class=3D"close">Close</a>
+<h2>Codiva.io</h2>
+<div class=3D"humanText">Signin</div>
+<div id=3D"signinContainer">
+<div>
+<form id=3D"loginForm" class=3D"infieldTopAlignedForm" action=3D"https://ww=
+w.codiva.io/login" method=3D"post">
+<ul>
+<li class=3D"full">
+<input id=3D"login-email" type=3D"email" name=3D"email">
+<label for=3D"login-email">Email</label>
+</li>
+<li class=3D"full">
+<input id=3D"login-password" type=3D"password" name=3D"password">
+<label for=3D"login-password">Password</label>
+</li>
+</ul>
+<button type=3D"submit" class=3D"button bg-green" id=3D"loginSubmit">Login<=
+/button>
+</form>
+</div>
+</div>
+<a id=3D"registerFallback" href=3D"https://www.codiva.io/p/6ad839d8-a971-4d=
+a3-bd64-f50d66fb20ed#registerModal" class=3D"fallback">
+<p class=3D"humanText">Don't have an account? Register here.</p>
+</a>
+<a href=3D"https://www.codiva.io/auth/google" class=3D"btn btn-danger"><spa=
+n class=3D"fa fa-google-plus"></span> Google</a>
+</div>
+</div>
+<div id=3D"registerModal" class=3D"modalDialog">
+<div class=3D"register">
+<a href=3D"https://www.codiva.io/p/6ad839d8-a971-4da3-bd64-f50d66fb20ed#" t=
+itle=3D"Close" class=3D"close">Close</a>
+<h2>Codiva.io</h2>
+<div class=3D"humanText">Create your free account to save your project.</di=
+v>
+<div id=3D"registerContainer">
+<div>
+<form id=3D"registerForm" class=3D"infieldTopAlignedForm" action=3D"https:/=
+/www.codiva.io/signup" method=3D"post">
+<ul>
+<li class=3D"full">
+<input id=3D"register-email" type=3D"email" name=3D"email">
+<label for=3D"register-email">Email</label>
+</li>
+<li class=3D"half">
+<input id=3D"register-password" type=3D"password" name=3D"password">
+<label for=3D"register-password">Password</label>
+</li>
+<li class=3D"half">
+<input id=3D"register-confirm-password" type=3D"password" name=3D"confirm_p=
+assword">
+<label for=3D"register-confirm-password">Confirm Password</label>
+</li>
+</ul>
+<button type=3D"submit" class=3D"button bg-orange" id=3D"registerSubmit">Cr=
+eate Account</button>
+</form>
+</div>
+</div>
+<a id=3D"signinFallback" href=3D"https://www.codiva.io/p/6ad839d8-a971-4da3=
+-bd64-f50d66fb20ed#signinModal" class=3D"fallback">
+<p class=3D"humanText">Already have an account? Sign in here.</p>
+</a>
+<a href=3D"https://www.codiva.io/auth/google" class=3D"btn btn-danger"><spa=
+n class=3D"fa fa-google-plus"></span> Google</a>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-appzi-dom=3D"1" class=3D"" id=3D"appzi-fli-lmaz6be6-b08s4tqhcp"><=
+div id=3D"appzi-fli-tooltip-lmaz6be6-b08s4tqhcp"><iframe data-appzi-dom=3D"=
+1" frameborder=3D"0" title=3D"Tooltip" width=3D"100%" height=3D"100%" src=
+=3D"cid:frame-4BAF78525E83A282C5ECA2A3565B3FD6@mhtml.blink"></iframe></div>=
+<iframe data-appzi-dom=3D"1" frameborder=3D"0" title=3D"Feedback Button" wi=
+dth=3D"100%" height=3D"100%" src=3D"cid:frame-74BA66A54C49EE6A9A7446DA6F1D3=
+C69@mhtml.blink"></iframe></div></body></html>
+------MultipartBoundary--AWsi4gbz60zdKiDj7eJhZUSlLNY9fVP6pCJATC0OLi----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.codiva.io/css/project.css
+
+@charset "utf-8";
+
+.folder-tree { padding: 1em 0px; height: 100%; width: 100%; overflow: scrol=
+l auto; background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 20=
+4, 204); border-radius: 6px; }
+
+.folder-tree::after { content: ""; display: block; clear: left; }
+
+.folder-tree div { clear: left; float: left; }
+
+.folder { position: absolute; left: -9999px; }
+
+.folder-name-label, .file-name .file-name-link { display: block; float: lef=
+t; clear: left; position: relative; margin-left: 25px; padding: 0.3em; bord=
+er-radius: 5px; color: rgb(92, 93, 94); text-decoration: none; cursor: poin=
+ter; white-space: nowrap; }
+
+.folder-name-label::before, .file-name .file-name-link::before { display: b=
+lock; position: absolute; top: 6px; left: -15px; font-family: fontawesome; =
+}
+
+.folder-name-label::before { content: "=EF=84=94"; }
+
+.folder:checked + .folder-name .folder-name-label::before { content: "=EF=
+=84=95"; }
+
+.file-name .file-name-link::before { content: "=E2=88=99"; }
+
+.file-name { position: relative; }
+
+.file-name-link + .edit-desc { display: none; top: -0.5em; left: -2em; }
+
+.file-name-link:focus + .edit-desc { display: block; }
+
+.folder:focus ~ .folder-name .folder-name-label, .file-name .file-name-link=
+:focus { outline: none; background-color: rgb(185, 195, 201); }
+
+.file-rename-div { display: none; }
+
+.file-name .rename-file-form input { position: absolute; font-size: 1em; to=
+p: 0px; }
+
+.sub { display: none; float: left; margin-left: 30px; }
+
+.folder:checked ~ .sub { display: block; }
+
+.file-name-tools { display: none; }
+
+.file-details:hover .file-name-tools { background-color: rgb(255, 195, 201)=
+; z-index: 100; display: inline-block; }
+
+.tabs input[type=3D"radio"] { position: absolute; top: -9999px; left: -9999=
+px; }
+
+.tabs { display: flex; flex-direction: row; height: 100%; float: none; list=
+-style: none; position: relative; padding: 0px; margin: 0px; z-index: 5; ba=
+ckground-color: rgb(211, 211, 211); }
+
+.tabs li { order: 2; max-width: 12em; flex: 1 1 auto; }
+
+#console_tabs_ul.tabs li { max-width: 8em; }
+
+.tabs .newTab { order: 4; max-width: 3em; }
+
+#label-newTab { width: initial; padding: 0px; text-align: center; }
+
+#console_tabs_ul.tabs .tab-radio + label { font-size: smaller; padding: 0.3=
+em 2px; height: 1.6em; line-height: 1.2em; }
+
+.tabs .tab-radio + label { display: block; padding: 1px 15px 1px 8%; cursor=
+: pointer; position: relative; min-width: 100%; max-width: 20em; width: 3em=
+; transition: all 0.2s ease-in-out 0s; white-space: nowrap; overflow: hidde=
+n; text-overflow: ellipsis; height: 40px; line-height: 40px; border-width: =
+1px 1px 0px; border-top-style: solid; border-right-style: solid; border-lef=
+t-style: solid; border-top-color: rgb(204, 204, 204); border-right-color: r=
+gb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-image: ini=
+tial; border-bottom-style: initial; border-bottom-color: initial; margin-bo=
+ttom: -3px; background: -webkit-linear-gradient(top, rgb(234, 234, 234) 0%,=
+ rgb(238, 238, 238) 50%); border-radius: 6px 6px 0px 0px; }
+
+.tabs .tab-radio + label + button { float: right; padding: 0px; border: 0px=
+; background: inherit; position: relative; top: -24px; right: 13px; }
+
+.tabs .tab-radio label:hover { background: rgba(255, 255, 255, 0.5); top: 0=
+px; }
+
+.tabs .tab-radio label button:hover { font-weight: 700; background: rgba(25=
+5, 255, 255, 0.5); top: 0px; }
+
+.tabs .tab-radio + label + button:hover { border-radius: 50%; background: r=
+gb(150, 0, 0); color: rgb(255, 255, 255); }
+
+[id^=3D"tab"]:checked + label:hover { font-weight: 400; }
+
+[id^=3D"tab"]:checked + label { background: rgb(255, 255, 255); color: rgb(=
+153, 153, 153); top: 0px; }
+
+[id^=3D"tab"]:checked + label button { display: block; }
+
+[id^=3D"tab"]:checked ~ [id^=3D"tab-content"] { display: block; }
+
+.tab-content { z-index: 2; display: none; text-align: left; width: 100%; li=
+ne-height: normal; padding-top: 1px; color: rgb(255, 255, 255); position: a=
+bsolute; left: 0px; box-sizing: border-box; animation-duration: 0.5s; }
+
+#toastSwitch { position: absolute; left: -9999px; }
+
+#toastSwitch:checked + .toastMessage { display: block; }
+
+.toastMessage { position: fixed; font-size: 20px; top: 3em; text-align: cen=
+ter; left: 50%; margin-left: auto; background-color: gray; color: rgb(245, =
+245, 245); border-radius: 4px; padding: 0.5em; z-index: 10; display: none; =
+}
+
+.CodeMirror { height: calc(70vh); }
+------MultipartBoundary--AWsi4gbz60zdKiDj7eJhZUSlLNY9fVP6pCJATC0OLi----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.codiva.io/css/modal.css
+
+@charset "utf-8";
+
+.modalDialog { position: fixed; display: block; inset: 0px; background: rgb=
+a(0, 0, 0, 0.8); z-index: 99999; opacity: 0; transition: opacity 400ms ease=
+-in 0s; pointer-events: none; text-align: center; }
+
+.modalDialog:target, .modalDialogActive { visibility: visible; opacity: 1; =
+pointer-events: auto; }
+
+.modalDialog > div { display: inline-block; max-width: 90%; position: relat=
+ive; margin: 10% auto; }
+
+#signinContainer, #registerContainer, #langPickerContainer { padding-bottom=
+: 1em; }
+
+.signin, .register { padding: 5px 20px 13px; background: rgb(255, 255, 255)=
+; }
+
+.close { color: rgb(119, 119, 119); position: absolute; right: 0px; top: 0p=
+x; height: 30px; text-decoration: none; }
+
+.infieldTopAlignedForm { color: rgb(136, 136, 136); font-family: Helvetica,=
+ Arial, sans-serif; font-size: 16px; }
+
+.infieldTopAlignedForm ul { background-color: rgb(255, 253, 250); border: 2=
+px solid rgb(136, 136, 136); list-style-type: none; margin: 3em auto; paddi=
+ng: 0px; max-width: 350px; }
+
+.infieldTopAlignedForm li { border-bottom: 1px solid; margin-top: -1px; pos=
+ition: relative; width: 100%; max-width: 100%; }
+
+.infieldTopAlignedForm li label { font-family: "lucida grande", "trebuchet =
+ms", sans-serif; font-size: 70%; letter-spacing: 0.03em; position: absolute=
+; top: 10px; left: 10px; text-transform: uppercase; }
+
+.infieldTopAlignedForm li .active label, .infieldTopAlignedForm li input:fo=
+cus + label { color: rgb(0, 89, 166); font-weight: 700; letter-spacing: -0.=
+01em; }
+
+.infieldTopAlignedForm li input, .infieldTopAlignedForm li input:focus { ba=
+ckground-color: transparent; border: none; color: rgb(98, 98, 98); font-siz=
+e: 18px; margin: 0px; padding: 2em 10px 10px; outline: none; width: 100%; }
+
+.infieldTopAlignedForm li input:focus { color: rgb(0, 0, 0); background-col=
+or: rgb(238, 238, 238); box-shadow: rgba(0, 0, 115, 0.25) 0px 3px 4px -2px =
+inset; }
+
+.infieldTopAlignedForm li label, .infieldTopAlignedForm li input { transiti=
+on: color 0.4s ease 0s, background-color 0.1s ease-in-out 0s; }
+
+.signin ul, .register ul { width: 20em; max-width: 100%; }
+
+.register-newsletter { position: relative; top: -2em; color: rgb(136, 136, =
+136); }
+
+.signin > h2, .register > h2 { color: rgb(0, 187, 68); }
+
+.signin .humanText, .register .humanText { color: rgb(136, 136, 136); font-=
+size: 80%; }
+
+.fallback { text-decoration: none; }
+
+.optionsRow { display: flex; border: 1px solid rgb(0, 0, 0); position: rela=
+tive; }
+
+.optionsRow li { list-style: none; flex: 1 1 33%; border: 1px solid rgb(0, =
+0, 0); }
+
+.optionsRow input[type=3D"radio"] { position: absolute; left: -9999px; }
+
+.optionsRow input[type=3D"radio"] + label { display: block; padding: 1em; t=
+ext-align: center; }
+
+.optionsRow input[type=3D"radio"]:checked + label { color: green; backgroun=
+d-color: lightgrey; }
+
+.optionsRow input[type=3D"radio"] ~ .desc { position: absolute; color: gray=
+; left: 0px; display: none; padding: 0.5em; max-width: 24em; }
+
+.optionsRow input[type=3D"radio"]:checked ~ .desc { display: block; }
+------MultipartBoundary--AWsi4gbz60zdKiDj7eJhZUSlLNY9fVP6pCJATC0OLi----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-a68ef2a7-859e-45e1-b039-2b0e72671b0e@mhtml.blink
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+body { font-family: Helvetica, Arial, Verdana, sans-serif; }
+
+.hideElement { display: none; }
+
+.mainContainer { background-color: whitesmoke; clear: both; display: flex; =
+flex-wrap: wrap; }
+
+.mainContainer::after { clear: both; }
+
+.header .logo a { color: rgb(0, 187, 68); }
+
+.header a, .header form button { text-decoration: none; color: white; paddi=
+ng: 0.5em 1em; display: inline-block; }
+
+button { font-size: 1em; display: inline; }
+
+.button { color: white; border: none; padding: 15px 32px; text-align: cente=
+r; text-decoration: none; display: inline-block; font-size: 16px; margin: 4=
+px 2px; cursor: pointer; border-radius: 8px; }
+
+.top-nav a:link, .top-nav a:visited { color: rgb(184, 202, 203); font-weigh=
+t: 200; }
+
+.header { padding: 0px 10px; height: 2em; background-color: rgb(36, 51, 66)=
+; }
+
+.header ul { margin: 0px; padding: 0px; }
+
+.logo { display: inline; float: left; font-family: "Heiti SC", Verdana, san=
+s-serif; }
+
+.top-nav { display: inline; float: left; }
+
+.top-nav ul { list-style: none; }
+
+.top-nav li { display: inline; }
+
+.top-nav a { height: 2em; }
+
+.header .login-signup, .header .new-project { float: right; }
+
+.header .login-signup li, .header .new-project li { display: inline; }
+
+.header .new-project li a { }
+
+.humanText { max-width: 22em; margin: auto; }
+
+.bg-orange { background-color: rgb(229, 103, 35); color: white; }
+
+.bg-green { background-color: rgb(76, 175, 80); }
+
+.narrow-button { border: none; color: white; text-align: center; text-decor=
+ation: none; display: inline-block; cursor: pointer; border-radius: 8px; he=
+ight: 2em; }
+
+.modalDialog { z-index: 99999; opacity: 0; transition: opacity 400ms ease-i=
+n 0s; pointer-events: none; }
+
+.toolbar { clear: both; height: 3em; background-color: rgb(233, 238, 239); =
+}
+
+.toolbar ul { display: flex; height: 100%; align-items: center; justify-con=
+tent: space-around; max-width: 700px; }
+
+.toolbar li { display: inline; }
+
+.toolbar input[type=3D"checkbox"], #consoletoggle { position: absolute; lef=
+t: -9999px; }
+
+.toolbar a { text-decoration: none; color: black; }
+
+.toolbar a:hover { transform: translateY(-1px); }
+
+.toolbar #projecttitle { font-style: italic; font-weight: bold; text-overfl=
+ow: ellipsis; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3=
+; -webkit-box-orient: vertical; }
+
+.toolbar #projecttitletoggle ~ .projectdetails-div { visibility: hidden; po=
+sition: absolute; height: 0px; z-index: 20; background-color: rgb(233, 238,=
+ 239); transition: height 0.1s ease-in 0s; }
+
+.toolbar #projecttitletoggle:checked ~ .projectdetails-div { visibility: vi=
+sible; height: 20em; transition: height 0.1s ease-in 0s; }
+
+.toolbar #projecttitletoggle ~ .projectdetails-div ~ label { position: fixe=
+d; height: 100%; width: 100%; top: 0px; left: 0px; z-index: 19; visibility:=
+ hidden; }
+
+.toolbar #projecttitletoggle:checked ~ .projectdetails-div ~ label { visibi=
+lity: visible; }
+
+.toolbar .filestoggleli { text-align: center; }
+
+.toolbar #fileexplorertoggle + label { padding: 0.3em; }
+
+.toolbar #fileexplorertoggle + label::before { font-family: FontAwesome; co=
+ntent: "=EF=81=BB"; margin-right: 0.5em; display: inline-block; }
+
+.toolbar #fileexplorertoggle:focus + label { border: 2px solid lightblue; }
+
+.toolbar #fileexplorertoggle:checked + label { }
+
+.toolbar #fileexplorertoggle:checked + label::before { content: "=EF=81=BC"=
+; }
+
+.toolbar #sharetoggle + label { padding: 0.3em; }
+
+.toolbar #sharetoggle + label::before { font-family: FontAwesome; content: =
+"=EF=87=A0"; margin-right: 0.5em; display: inline-block; }
+
+.toolbar #sharetoggle + label { transform: translateY(-1px); }
+
+.toolbar #sharetoggle:checked + label::before { content: "=EF=80=A3"; }
+
+.toolbar button { font-size: 1em; padding: 0.25em; border: none; background=
+: none; }
+
+.toolbar button:hover { transform: translateY(-1px); }
+
+.toolbar ul li div, .toolbar ul li button { margin: 1em 0px; }
+
+.toolbar .spacer { max-width: 1em; }
+
+#run { border: 1px solid; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.1=
+6) 0px 3px 6px; }
+
+#run:active { box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px; transform: tra=
+nslateY(1px); }
+
+.icon::before { display: inline-block; margin-right: 0.5em; font-style: nor=
+mal; font-variant: normal; font-kerning: auto; font-optical-sizing: auto; f=
+ont-feature-settings: normal; font-variation-settings: normal; font-weight:=
+ normal; font-stretch: normal; line-height: 1; font-family: FontAwesome; fo=
+nt-size: inherit; text-rendering: auto; -webkit-font-smoothing: antialiased=
+; transform: translate(0px, 0px); }
+
+.link { border: none; font-family: arial, sans-serif; color: rgb(0, 102, 15=
+3); cursor: pointer; background: none !important; padding: 0px !important; =
+}
+
+.link:hover { text-decoration: underline; }
+
+#fileexplorer { height: 65vh; max-height: calc(90vh - 5em); position: relat=
+ive; white-space: nowrap; z-index: 10; }
+
+.show-fileexplorer { max-width: 350px; width: 300px; flex: 1 1 30%; min-hei=
+ght: 100px; overflow: auto scroll; padding: 0.25em; }
+
+.hide-fileexplorer { max-width: 0px; width: 0px; flex: 1 1 30%; overflow: h=
+idden; padding: 0px; }
+
+.edit-desc { position: absolute; bottom: 0px; right: 0px; border: none; hei=
+ght: 2.5em; width: 4em; font-size: large; background: transparent; }
+
+#workbench { height: 65vh; min-width: 320px; max-height: calc(90vh - 5.5em)=
+; flex: 3 0 calc(60% - 0.5em); transition: width 0.05s ease-in 0s, position=
+ 0.05s ease-in 0s; border: 1px solid rgb(204, 204, 204); border-radius: 6px=
+; margin: 0.25em; }
+
+#console { height: calc(35vh - 5em); min-height: 10vh; min-width: 10px; fle=
+x: 1 0 100%; z-index: 20; position: absolute; left: 0px; bottom: 0px; width=
+: 100%; }
+
+#console #console_tabs_ul #console_tab_intro { display: none; max-width: 10=
+0%; }
+
+#console #console_tabs_ul #console_tab_intro:only-child { display: block; }
+
+#console .tab-content { height: 90%; overflow-y: scroll; font-family: monos=
+pace; background-color: white; color: black; }
+
+#filesReminder { display: none; }
+
+#console .consoleReminder { color: red; border-bottom: 1px solid gray; }
+
+#console .tab-content .consoleReminder a { color: red; text-decoration: non=
+e; }
+
+#console .tab-content pre { min-height: calc(100% - 2em); border-bottom: 2p=
+x solid lightgray; }
+
+#console .console-input-div { position: relative; width: calc(100vw - 3em);=
+ bottom: 2px; left: 6px; }
+
+#consoletoggle + label { display: none; }
+
+#workbench .CodeMirror { height: calc(65vh - 5em); }
+
+.newJavaTab { display: none; }
+
+.div-newFileForm { width: 90%; max-width: 400px; display: inline-block; pad=
+ding: 5px 20px 13px; }
+
+#tab-content-newTab .CodeMirror { overflow: scroll; }
+
+#newFileForm button { border: 1px solid; display: block; margin: auto; }
+
+#newFileForm li { border: 1px solid; }
+
+#newFileForm ul { max-width: 100%; margin: 1em auto; }
+
+div.CodeMirror span.CodeMirror-matchingbracket { padding-bottom: 1px; borde=
+r-bottom-style: solid; border-bottom-width: 1px; width: fit-content; color:=
+ inherit !important; }
+
+.resizer { position: absolute; top: -10px; height: 10px; width: 100%; curso=
+r: ns-resize; z-index: 30; }
+
+@media (max-height: 700px) {
+  #workbench, #fileexplorer { height: calc(90vh - 5em); }
+  #workbench .CodeMirror { height: calc(90vh - 10em); }
+  #console { height: 10vh; }
+  #console .tab-content { height: calc(10vh - 1em); }
+  #consoletoggle:checked + label { bottom: 70vh; opacity: 0.8; }
+  #consoletoggle:checked + label + #console { height: 70vh; position: absol=
+ute; left: 0px; bottom: 0px; width: 100%; }
+  #consoletoggle:checked + label + #console .tab-content { height: calc(70v=
+h - 1em); }
+  #consoletoggle:not(:checked) + label + #console .console-input-div { disp=
+lay: none; }
+  #consoletoggle + label { display: inline; background-color: lightgray; wi=
+dth: 100%; height: 10vh; position: absolute; z-index: 30; bottom: 0px; left=
+: 0px; opacity: 0; color: orangered; text-align: center; padding: 1em; font=
+-size: larger; }
+  .resizer { display: none; }
+}
+
+@media (min-height: 1000px) {
+  #workbench, #fileexplorer { height: calc(70vh - 5em); }
+  #workbench .CodeMirror { height: calc(70vh - 10em); }
+  #console { height: 30vh; }
+  #console .tab-content { height: calc(30vh - 1em); }
+}
+
+@media (max-width: 1000px) {
+  #fileexplorer { flex: 1 0 300px; position: absolute; transition: width 0.=
+05s ease-in 0s; }
+  #console { position: absolute; left: 0px; bottom: 0px; width: 100%; }
+}
+
+@media (max-width: 650px) {
+  .header { padding: 0px; }
+  .top-nav { display: none; }
+  .screenshot, .explain { float: none; width: 95%; height: auto; padding-to=
+p: 1em; margin: auto; }
+  .screenshot img { max-width: 100%; margin: auto; display: block; }
+  .narrow-button { border-radius: 0px; }
+}
+
+@media (max-width: 340px) {
+  .logo { display: none; }
+}
+------MultipartBoundary--AWsi4gbz60zdKiDj7eJhZUSlLNY9fVP6pCJATC0OLi----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-d456a7a3-af82-4a26-a5aa-79dd65daa1bf@mhtml.blink
+
+@charset "utf-8";
+
+#appzi-fli-lmaz6be6-b08s4tqhcp, #appzi-fli-lmaz6be6-b08s4tqhcp > iframe, #a=
+ppzi-fli-lmaz6be6-b08s4tqhcp::before { border-radius: 7px; }
+
+#appzi-fli-tooltip-lmaz6be6-b08s4tqhcp { box-sizing: border-box; padding: 1=
+5px; opacity: 0; width: 60vw; position: absolute; right: 0px; z-index: -1; =
+transition: all 0.5s ease 0s; transform: translateX(-60px); pointer-events:=
+ none; }
+
+#appzi-fli-lmaz6be6-b08s4tqhcp:hover #appzi-fli-tooltip-lmaz6be6-b08s4tqhcp=
+ { opacity: 1; transform: translateX(-65px); }
+
+#appzi-fli-lmaz6be6-b08s4tqhcp { position: fixed; z-index: 2147483000; heig=
+ht: 60px; width: 60px; transition: transform 0.3s ease-in-out 0s, opacity 0=
+.3s ease-out 0s, box-shadow 0.3s ease-out 0s; cursor: pointer; transform: t=
+ranslate(-30px, -30px) rotate(0deg); right: 0px; bottom: 0px; box-shadow: r=
+gba(0, 0, 0, 0.1) 0px 0px 5px; }
+
+#appzi-fli-lmaz6be6-b08s4tqhcp:hover { box-shadow: rgba(0, 0, 0, 0.2) 0px 0=
+px 20px; }
+
+@supports (-webkit-backdrop-filter: blur(1px)) {
+  #appzi-fli-lmaz6be6-b08s4tqhcp { transform-origin: 0px 0px; }
+}
+
+#appzi-fli-lmaz6be6-b08s4tqhcp.ed48cdd3e1a { opacity: 0; transform: transla=
+te(-30px, -30px) rotate(0deg) scale(0, 0); pointer-events: none; }
+------MultipartBoundary--AWsi4gbz60zdKiDj7eJhZUSlLNY9fVP6pCJATC0OLi----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css
+
+@charset "utf-8";
+
+@font-face { font-family: FontAwesome; src: url("../fonts/fontawesome-webfo=
+nt.woff2?v=3D4.6.3") format("woff2"), url("../fonts/fontawesome-webfont.wof=
+f?v=3D4.6.3") format("woff"), url("../fonts/fontawesome-webfont.ttf?v=3D4.6=
+.3") format("truetype"); font-weight: normal; font-style: normal; }
+
+.fa { display: inline-block; font-style: normal; font-variant: normal; font=
+-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; f=
+ont-variation-settings: normal; font-weight: normal; font-stretch: normal; =
+line-height: 1; font-family: FontAwesome; font-size: inherit; text-renderin=
+g: auto; -webkit-font-smoothing: antialiased; }
+
+.fa-lg { font-size: 1.33333em; line-height: 0.75em; vertical-align: -15%; }
+
+.fa-2x { font-size: 2em; }
+
+.fa-3x { font-size: 3em; }
+
+.fa-4x { font-size: 4em; }
+
+.fa-5x { font-size: 5em; }
+
+.fa-fw { width: 1.28571em; text-align: center; }
+
+.fa-ul { padding-left: 0px; margin-left: 2.14286em; list-style-type: none; =
+}
+
+.fa-ul > li { position: relative; }
+
+.fa-li { position: absolute; left: -2.14286em; width: 2.14286em; top: 0.142=
+857em; text-align: center; }
+
+.fa-li.fa-lg { left: -1.85714em; }
+
+.fa-border { padding: 0.2em 0.25em 0.15em; border: 0.08em solid rgb(238, 23=
+8, 238); border-radius: 0.1em; }
+
+.fa-pull-left { float: left; }
+
+.fa-pull-right { float: right; }
+
+.fa.fa-pull-left { margin-right: 0.3em; }
+
+.fa.fa-pull-right { margin-left: 0.3em; }
+
+.pull-right { float: right; }
+
+.pull-left { float: left; }
+
+.fa.pull-left { margin-right: 0.3em; }
+
+.fa.pull-right { margin-left: 0.3em; }
+
+.fa-spin { animation: 2s linear 0s infinite normal none running fa-spin; }
+
+.fa-pulse { animation: 1s steps(8) 0s infinite normal none running fa-spin;=
+ }
+
+@-webkit-keyframes fa-spin {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(359deg); }
+}
+
+@keyframes fa-spin {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(359deg); }
+}
+
+.fa-rotate-90 { transform: rotate(90deg); }
+
+.fa-rotate-180 { transform: rotate(180deg); }
+
+.fa-rotate-270 { transform: rotate(270deg); }
+
+.fa-flip-horizontal { transform: scale(-1, 1); }
+
+.fa-flip-vertical { transform: scale(1, -1); }
+
+:root .fa-rotate-90, :root .fa-rotate-180, :root .fa-rotate-270, :root .fa-=
+flip-horizontal, :root .fa-flip-vertical { filter: none; }
+
+.fa-stack { position: relative; display: inline-block; width: 2em; height: =
+2em; line-height: 2em; vertical-align: middle; }
+
+.fa-stack-1x, .fa-stack-2x { position: absolute; left: 0px; width: 100%; te=
+xt-align: center; }
+
+.fa-stack-1x { line-height: inherit; }
+
+.fa-stack-2x { font-size: 2em; }
+
+.fa-inverse { color: rgb(255, 255, 255); }
+
+.fa-glass::before { content: "=EF=80=80"; }
+
+.fa-music::before { content: "=EF=80=81"; }
+
+.fa-search::before { content: "=EF=80=82"; }
+
+.fa-envelope-o::before { content: "=EF=80=83"; }
+
+.fa-heart::before { content: "=EF=80=84"; }
+
+.fa-star::before { content: "=EF=80=85"; }
+
+.fa-star-o::before { content: "=EF=80=86"; }
+
+.fa-user::before { content: "=EF=80=87"; }
+
+.fa-film::before { content: "=EF=80=88"; }
+
+.fa-th-large::before { content: "=EF=80=89"; }
+
+.fa-th::before { content: "=EF=80=8A"; }
+
+.fa-th-list::before { content: "=EF=80=8B"; }
+
+.fa-check::before { content: "=EF=80=8C"; }
+
+.fa-remove::before, .fa-close::before, .fa-times::before { content: "=EF=80=
+=8D"; }
+
+.fa-search-plus::before { content: "=EF=80=8E"; }
+
+.fa-search-minus::before { content: "=EF=80=90"; }
+
+.fa-power-off::before { content: "=EF=80=91"; }
+
+.fa-signal::before { content: "=EF=80=92"; }
+
+.fa-gear::before, .fa-cog::before { content: "=EF=80=93"; }
+
+.fa-trash-o::before { content: "=EF=80=94"; }
+
+.fa-home::before { content: "=EF=80=95"; }
+
+.fa-file-o::before { content: "=EF=80=96"; }
+
+.fa-clock-o::before { content: "=EF=80=97"; }
+
+.fa-road::before { content: "=EF=80=98"; }
+
+.fa-download::before { content: "=EF=80=99"; }
+
+.fa-arrow-circle-o-down::before { content: "=EF=80=9A"; }
+
+.fa-arrow-circle-o-up::before { content: "=EF=80=9B"; }
+
+.fa-inbox::before { content: "=EF=80=9C"; }
+
+.fa-play-circle-o::before { content: "=EF=80=9D"; }
+
+.fa-rotate-right::before, .fa-repeat::before { content: "=EF=80=9E"; }
+
+.fa-refresh::before { content: "=EF=80=A1"; }
+
+.fa-list-alt::before { content: "=EF=80=A2"; }
+
+.fa-lock::before { content: "=EF=80=A3"; }
+
+.fa-flag::before { content: "=EF=80=A4"; }
+
+.fa-headphones::before { content: "=EF=80=A5"; }
+
+.fa-volume-off::before { content: "=EF=80=A6"; }
+
+.fa-volume-down::before { content: "=EF=80=A7"; }
+
+.fa-volume-up::before { content: "=EF=80=A8"; }
+
+.fa-qrcode::before { content: "=EF=80=A9"; }
+
+.fa-barcode::before { content: "=EF=80=AA"; }
+
+.fa-tag::before { content: "=EF=80=AB"; }
+
+.fa-tags::before { content: "=EF=80=AC"; }
+
+.fa-book::before { content: "=EF=80=AD"; }
+
+.fa-bookmark::before { content: "=EF=80=AE"; }
+
+.fa-print::before { content: "=EF=80=AF"; }
+
+.fa-camera::before { content: "=EF=80=B0"; }
+
+.fa-font::before { content: "=EF=80=B1"; }
+
+.fa-bold::before { content: "=EF=80=B2"; }
+
+.fa-italic::before { content: "=EF=80=B3"; }
+
+.fa-text-height::before { content: "=EF=80=B4"; }
+
+.fa-text-width::before { content: "=EF=80=B5"; }
+
+.fa-align-left::before { content: "=EF=80=B6"; }
+
+.fa-align-center::before { content: "=EF=80=B7"; }
+
+.fa-align-right::before { content: "=EF=80=B8"; }
+
+.fa-align-justify::before { content: "=EF=80=B9"; }
+
+.fa-list::before { content: "=EF=80=BA"; }
+
+.fa-dedent::before, .fa-outdent::before { content: "=EF=80=BB"; }
+
+.fa-indent::before { content: "=EF=80=BC"; }
+
+.fa-video-camera::before { content: "=EF=80=BD"; }
+
+.fa-photo::before, .fa-image::before, .fa-picture-o::before { content: "=EF=
+=80=BE"; }
+
+.fa-pencil::before { content: "=EF=81=80"; }
+
+.fa-map-marker::before { content: "=EF=81=81"; }
+
+.fa-adjust::before { content: "=EF=81=82"; }
+
+.fa-tint::before { content: "=EF=81=83"; }
+
+.fa-edit::before, .fa-pencil-square-o::before { content: "=EF=81=84"; }
+
+.fa-share-square-o::before { content: "=EF=81=85"; }
+
+.fa-check-square-o::before { content: "=EF=81=86"; }
+
+.fa-arrows::before { content: "=EF=81=87"; }
+
+.fa-step-backward::before { content: "=EF=81=88"; }
+
+.fa-fast-backward::before { content: "=EF=81=89"; }
+
+.fa-backward::before { content: "=EF=81=8A"; }
+
+.fa-play::before { content: "=EF=81=8B"; }
+
+.fa-pause::before { content: "=EF=81=8C"; }
+
+.fa-stop::before { content: "=EF=81=8D"; }
+
+.fa-forward::before { content: "=EF=81=8E"; }
+
+.fa-fast-forward::before { content: "=EF=81=90"; }
+
+.fa-step-forward::before { content: "=EF=81=91"; }
+
+.fa-eject::before { content: "=EF=81=92"; }
+
+.fa-chevron-left::before { content: "=EF=81=93"; }
+
+.fa-chevron-right::before { content: "=EF=81=94"; }
+
+.fa-plus-circle::before { content: "=EF=81=95"; }
+
+.fa-minus-circle::before { content: "=EF=81=96"; }
+
+.fa-times-circle::before { content: "=EF=81=97"; }
+
+.fa-check-circle::before { content: "=EF=81=98"; }
+
+.fa-question-circle::before { content: "=EF=81=99"; }
+
+.fa-info-circle::before { content: "=EF=81=9A"; }
+
+.fa-crosshairs::before { content: "=EF=81=9B"; }
+
+.fa-times-circle-o::before { content: "=EF=81=9C"; }
+
+.fa-check-circle-o::before { content: "=EF=81=9D"; }
+
+.fa-ban::before { content: "=EF=81=9E"; }
+
+.fa-arrow-left::before { content: "=EF=81=A0"; }
+
+.fa-arrow-right::before { content: "=EF=81=A1"; }
+
+.fa-arrow-up::before { content: "=EF=81=A2"; }
+
+.fa-arrow-down::before { content: "=EF=81=A3"; }
+
+.fa-mail-forward::before, .fa-share::before { content: "=EF=81=A4"; }
+
+.fa-expand::before { content: "=EF=81=A5"; }
+
+.fa-compress::before { content: "=EF=81=A6"; }
+
+.fa-plus::before { content: "=EF=81=A7"; }
+
+.fa-minus::before { content: "=EF=81=A8"; }
+
+.fa-asterisk::before { content: "=EF=81=A9"; }
+
+.fa-exclamation-circle::before { content: "=EF=81=AA"; }
+
+.fa-gift::before { content: "=EF=81=AB"; }
+
+.fa-leaf::before { content: "=EF=81=AC"; }
+
+.fa-fire::before { content: "=EF=81=AD"; }
+
+.fa-eye::before { content: "=EF=81=AE"; }
+
+.fa-eye-slash::before { content: "=EF=81=B0"; }
+
+.fa-warning::before, .fa-exclamation-triangle::before { content: "=EF=81=B1=
+"; }
+
+.fa-plane::before { content: "=EF=81=B2"; }
+
+.fa-calendar::before { content: "=EF=81=B3"; }
+
+.fa-random::before { content: "=EF=81=B4"; }
+
+.fa-comment::before { content: "=EF=81=B5"; }
+
+.fa-magnet::before { content: "=EF=81=B6"; }
+
+.fa-chevron-up::before { content: "=EF=81=B7"; }
+
+.fa-chevron-down::before { content: "=EF=81=B8"; }
+
+.fa-retweet::before { content: "=EF=81=B9"; }
+
+.fa-shopping-cart::before { content: "=EF=81=BA"; }
+
+.fa-folder::before { content: "=EF=81=BB"; }
+
+.fa-folder-open::before { content: "=EF=81=BC"; }
+
+.fa-arrows-v::before { content: "=EF=81=BD"; }
+
+.fa-arrows-h::before { content: "=EF=81=BE"; }
+
+.fa-bar-chart-o::before, .fa-bar-chart::before { content: "=EF=82=80"; }
+
+.fa-twitter-square::before { content: "=EF=82=81"; }
+
+.fa-facebook-square::before { content: "=EF=82=82"; }
+
+.fa-camera-retro::before { content: "=EF=82=83"; }
+
+.fa-key::before { content: "=EF=82=84"; }
+
+.fa-gears::before, .fa-cogs::before { content: "=EF=82=85"; }
+
+.fa-comments::before { content: "=EF=82=86"; }
+
+.fa-thumbs-o-up::before { content: "=EF=82=87"; }
+
+.fa-thumbs-o-down::before { content: "=EF=82=88"; }
+
+.fa-star-half::before { content: "=EF=82=89"; }
+
+.fa-heart-o::before { content: "=EF=82=8A"; }
+
+.fa-sign-out::before { content: "=EF=82=8B"; }
+
+.fa-linkedin-square::before { content: "=EF=82=8C"; }
+
+.fa-thumb-tack::before { content: "=EF=82=8D"; }
+
+.fa-external-link::before { content: "=EF=82=8E"; }
+
+.fa-sign-in::before { content: "=EF=82=90"; }
+
+.fa-trophy::before { content: "=EF=82=91"; }
+
+.fa-github-square::before { content: "=EF=82=92"; }
+
+.fa-upload::before { content: "=EF=82=93"; }
+
+.fa-lemon-o::before { content: "=EF=82=94"; }
+
+.fa-phone::before { content: "=EF=82=95"; }
+
+.fa-square-o::before { content: "=EF=82=96"; }
+
+.fa-bookmark-o::before { content: "=EF=82=97"; }
+
+.fa-phone-square::before { content: "=EF=82=98"; }
+
+.fa-twitter::before { content: "=EF=82=99"; }
+
+.fa-facebook-f::before, .fa-facebook::before { content: "=EF=82=9A"; }
+
+.fa-github::before { content: "=EF=82=9B"; }
+
+.fa-unlock::before { content: "=EF=82=9C"; }
+
+.fa-credit-card::before { content: "=EF=82=9D"; }
+
+.fa-feed::before, .fa-rss::before { content: "=EF=82=9E"; }
+
+.fa-hdd-o::before { content: "=EF=82=A0"; }
+
+.fa-bullhorn::before { content: "=EF=82=A1"; }
+
+.fa-bell::before { content: "=EF=83=B3"; }
+
+.fa-certificate::before { content: "=EF=82=A3"; }
+
+.fa-hand-o-right::before { content: "=EF=82=A4"; }
+
+.fa-hand-o-left::before { content: "=EF=82=A5"; }
+
+.fa-hand-o-up::before { content: "=EF=82=A6"; }
+
+.fa-hand-o-down::before { content: "=EF=82=A7"; }
+
+.fa-arrow-circle-left::before { content: "=EF=82=A8"; }
+
+.fa-arrow-circle-right::before { content: "=EF=82=A9"; }
+
+.fa-arrow-circle-up::before { content: "=EF=82=AA"; }
+
+.fa-arrow-circle-down::before { content: "=EF=82=AB"; }
+
+.fa-globe::before { content: "=EF=82=AC"; }
+
+.fa-wrench::before { content: "=EF=82=AD"; }
+
+.fa-tasks::before { content: "=EF=82=AE"; }
+
+.fa-filter::before { content: "=EF=82=B0"; }
+
+.fa-briefcase::before { content: "=EF=82=B1"; }
+
+.fa-arrows-alt::before { content: "=EF=82=B2"; }
+
+.fa-group::before, .fa-users::before { content: "=EF=83=80"; }
+
+.fa-chain::before, .fa-link::before { content: "=EF=83=81"; }
+
+.fa-cloud::before { content: "=EF=83=82"; }
+
+.fa-flask::before { content: "=EF=83=83"; }
+
+.fa-cut::before, .fa-scissors::before { content: "=EF=83=84"; }
+
+.fa-copy::before, .fa-files-o::before { content: "=EF=83=85"; }
+
+.fa-paperclip::before { content: "=EF=83=86"; }
+
+.fa-save::before, .fa-floppy-o::before { content: "=EF=83=87"; }
+
+.fa-square::before { content: "=EF=83=88"; }
+
+.fa-navicon::before, .fa-reorder::before, .fa-bars::before { content: "=EF=
+=83=89"; }
+
+.fa-list-ul::before { content: "=EF=83=8A"; }
+
+.fa-list-ol::before { content: "=EF=83=8B"; }
+
+.fa-strikethrough::before { content: "=EF=83=8C"; }
+
+.fa-underline::before { content: "=EF=83=8D"; }
+
+.fa-table::before { content: "=EF=83=8E"; }
+
+.fa-magic::before { content: "=EF=83=90"; }
+
+.fa-truck::before { content: "=EF=83=91"; }
+
+.fa-pinterest::before { content: "=EF=83=92"; }
+
+.fa-pinterest-square::before { content: "=EF=83=93"; }
+
+.fa-google-plus-square::before { content: "=EF=83=94"; }
+
+.fa-google-plus::before { content: "=EF=83=95"; }
+
+.fa-money::before { content: "=EF=83=96"; }
+
+.fa-caret-down::before { content: "=EF=83=97"; }
+
+.fa-caret-up::before { content: "=EF=83=98"; }
+
+.fa-caret-left::before { content: "=EF=83=99"; }
+
+.fa-caret-right::before { content: "=EF=83=9A"; }
+
+.fa-columns::before { content: "=EF=83=9B"; }
+
+.fa-unsorted::before, .fa-sort::before { content: "=EF=83=9C"; }
+
+.fa-sort-down::before, .fa-sort-desc::before { content: "=EF=83=9D"; }
+
+.fa-sort-up::before, .fa-sort-asc::before { content: "=EF=83=9E"; }
+
+.fa-envelope::before { content: "=EF=83=A0"; }
+
+.fa-linkedin::before { content: "=EF=83=A1"; }
+
+.fa-rotate-left::before, .fa-undo::before { content: "=EF=83=A2"; }
+
+.fa-legal::before, .fa-gavel::before { content: "=EF=83=A3"; }
+
+.fa-dashboard::before, .fa-tachometer::before { content: "=EF=83=A4"; }
+
+.fa-comment-o::before { content: "=EF=83=A5"; }
+
+.fa-comments-o::before { content: "=EF=83=A6"; }
+
+.fa-flash::before, .fa-bolt::before { content: "=EF=83=A7"; }
+
+.fa-sitemap::before { content: "=EF=83=A8"; }
+
+.fa-umbrella::before { content: "=EF=83=A9"; }
+
+.fa-paste::before, .fa-clipboard::before { content: "=EF=83=AA"; }
+
+.fa-lightbulb-o::before { content: "=EF=83=AB"; }
+
+.fa-exchange::before { content: "=EF=83=AC"; }
+
+.fa-cloud-download::before { content: "=EF=83=AD"; }
+
+.fa-cloud-upload::before { content: "=EF=83=AE"; }
+
+.fa-user-md::before { content: "=EF=83=B0"; }
+
+.fa-stethoscope::before { content: "=EF=83=B1"; }
+
+.fa-suitcase::before { content: "=EF=83=B2"; }
+
+.fa-bell-o::before { content: "=EF=82=A2"; }
+
+.fa-coffee::before { content: "=EF=83=B4"; }
+
+.fa-cutlery::before { content: "=EF=83=B5"; }
+
+.fa-file-text-o::before { content: "=EF=83=B6"; }
+
+.fa-building-o::before { content: "=EF=83=B7"; }
+
+.fa-hospital-o::before { content: "=EF=83=B8"; }
+
+.fa-ambulance::before { content: "=EF=83=B9"; }
+
+.fa-medkit::before { content: "=EF=83=BA"; }
+
+.fa-fighter-jet::before { content: "=EF=83=BB"; }
+
+.fa-beer::before { content: "=EF=83=BC"; }
+
+.fa-h-square::before { content: "=EF=83=BD"; }
+
+.fa-plus-square::before { content: "=EF=83=BE"; }
+
+.fa-angle-double-left::before { content: "=EF=84=80"; }
+
+.fa-angle-double-right::before { content: "=EF=84=81"; }
+
+.fa-angle-double-up::before { content: "=EF=84=82"; }
+
+.fa-angle-double-down::before { content: "=EF=84=83"; }
+
+.fa-angle-left::before { content: "=EF=84=84"; }
+
+.fa-angle-right::before { content: "=EF=84=85"; }
+
+.fa-angle-up::before { content: "=EF=84=86"; }
+
+.fa-angle-down::before { content: "=EF=84=87"; }
+
+.fa-desktop::before { content: "=EF=84=88"; }
+
+.fa-laptop::before { content: "=EF=84=89"; }
+
+.fa-tablet::before { content: "=EF=84=8A"; }
+
+.fa-mobile-phone::before, .fa-mobile::before { content: "=EF=84=8B"; }
+
+.fa-circle-o::before { content: "=EF=84=8C"; }
+
+.fa-quote-left::before { content: "=EF=84=8D"; }
+
+.fa-quote-right::before { content: "=EF=84=8E"; }
+
+.fa-spinner::before { content: "=EF=84=90"; }
+
+.fa-circle::before { content: "=EF=84=91"; }
+
+.fa-mail-reply::before, .fa-reply::before { content: "=EF=84=92"; }
+
+.fa-github-alt::before { content: "=EF=84=93"; }
+
+.fa-folder-o::before { content: "=EF=84=94"; }
+
+.fa-folder-open-o::before { content: "=EF=84=95"; }
+
+.fa-smile-o::before { content: "=EF=84=98"; }
+
+.fa-frown-o::before { content: "=EF=84=99"; }
+
+.fa-meh-o::before { content: "=EF=84=9A"; }
+
+.fa-gamepad::before { content: "=EF=84=9B"; }
+
+.fa-keyboard-o::before { content: "=EF=84=9C"; }
+
+.fa-flag-o::before { content: "=EF=84=9D"; }
+
+.fa-flag-checkered::before { content: "=EF=84=9E"; }
+
+.fa-terminal::before { content: "=EF=84=A0"; }
+
+.fa-code::before { content: "=EF=84=A1"; }
+
+.fa-mail-reply-all::before, .fa-reply-all::before { content: "=EF=84=A2"; }
+
+.fa-star-half-empty::before, .fa-star-half-full::before, .fa-star-half-o::b=
+efore { content: "=EF=84=A3"; }
+
+.fa-location-arrow::before { content: "=EF=84=A4"; }
+
+.fa-crop::before { content: "=EF=84=A5"; }
+
+.fa-code-fork::before { content: "=EF=84=A6"; }
+
+.fa-unlink::before, .fa-chain-broken::before { content: "=EF=84=A7"; }
+
+.fa-question::before { content: "=EF=84=A8"; }
+
+.fa-info::before { content: "=EF=84=A9"; }
+
+.fa-exclamation::before { content: "=EF=84=AA"; }
+
+.fa-superscript::before { content: "=EF=84=AB"; }
+
+.fa-subscript::before { content: "=EF=84=AC"; }
+
+.fa-eraser::before { content: "=EF=84=AD"; }
+
+.fa-puzzle-piece::before { content: "=EF=84=AE"; }
+
+.fa-microphone::before { content: "=EF=84=B0"; }
+
+.fa-microphone-slash::before { content: "=EF=84=B1"; }
+
+.fa-shield::before { content: "=EF=84=B2"; }
+
+.fa-calendar-o::before { content: "=EF=84=B3"; }
+
+.fa-fire-extinguisher::before { content: "=EF=84=B4"; }
+
+.fa-rocket::before { content: "=EF=84=B5"; }
+
+.fa-maxcdn::before { content: "=EF=84=B6"; }
+
+.fa-chevron-circle-left::before { content: "=EF=84=B7"; }
+
+.fa-chevron-circle-right::before { content: "=EF=84=B8"; }
+
+.fa-chevron-circle-up::before { content: "=EF=84=B9"; }
+
+.fa-chevron-circle-down::before { content: "=EF=84=BA"; }
+
+.fa-html5::before { content: "=EF=84=BB"; }
+
+.fa-css3::before { content: "=EF=84=BC"; }
+
+.fa-anchor::before { content: "=EF=84=BD"; }
+
+.fa-unlock-alt::before { content: "=EF=84=BE"; }
+
+.fa-bullseye::before { content: "=EF=85=80"; }
+
+.fa-ellipsis-h::before { content: "=EF=85=81"; }
+
+.fa-ellipsis-v::before { content: "=EF=85=82"; }
+
+.fa-rss-square::before { content: "=EF=85=83"; }
+
+.fa-play-circle::before { content: "=EF=85=84"; }
+
+.fa-ticket::before { content: "=EF=85=85"; }
+
+.fa-minus-square::before { content: "=EF=85=86"; }
+
+.fa-minus-square-o::before { content: "=EF=85=87"; }
+
+.fa-level-up::before { content: "=EF=85=88"; }
+
+.fa-level-down::before { content: "=EF=85=89"; }
+
+.fa-check-square::before { content: "=EF=85=8A"; }
+
+.fa-pencil-square::before { content: "=EF=85=8B"; }
+
+.fa-external-link-square::before { content: "=EF=85=8C"; }
+
+.fa-share-square::before { content: "=EF=85=8D"; }
+
+.fa-compass::before { content: "=EF=85=8E"; }
+
+.fa-toggle-down::before, .fa-caret-square-o-down::before { content: "=EF=85=
+=90"; }
+
+.fa-toggle-up::before, .fa-caret-square-o-up::before { content: "=EF=85=91"=
+; }
+
+.fa-toggle-right::before, .fa-caret-square-o-right::before { content: "=EF=
+=85=92"; }
+
+.fa-euro::before, .fa-eur::before { content: "=EF=85=93"; }
+
+.fa-gbp::before { content: "=EF=85=94"; }
+
+.fa-dollar::before, .fa-usd::before { content: "=EF=85=95"; }
+
+.fa-rupee::before, .fa-inr::before { content: "=EF=85=96"; }
+
+.fa-cny::before, .fa-rmb::before, .fa-yen::before, .fa-jpy::before { conten=
+t: "=EF=85=97"; }
+
+.fa-ruble::before, .fa-rouble::before, .fa-rub::before { content: "=EF=85=
+=98"; }
+
+.fa-won::before, .fa-krw::before { content: "=EF=85=99"; }
+
+.fa-bitcoin::before, .fa-btc::before { content: "=EF=85=9A"; }
+
+.fa-file::before { content: "=EF=85=9B"; }
+
+.fa-file-text::before { content: "=EF=85=9C"; }
+
+.fa-sort-alpha-asc::before { content: "=EF=85=9D"; }
+
+.fa-sort-alpha-desc::before { content: "=EF=85=9E"; }
+
+.fa-sort-amount-asc::before { content: "=EF=85=A0"; }
+
+.fa-sort-amount-desc::before { content: "=EF=85=A1"; }
+
+.fa-sort-numeric-asc::before { content: "=EF=85=A2"; }
+
+.fa-sort-numeric-desc::before { content: "=EF=85=A3"; }
+
+.fa-thumbs-up::before { content: "=EF=85=A4"; }
+
+.fa-thumbs-down::before { content: "=EF=85=A5"; }
+
+.fa-youtube-square::before { content: "=EF=85=A6"; }
+
+.fa-youtube::before { content: "=EF=85=A7"; }
+
+.fa-xing::before { content: "=EF=85=A8"; }
+
+.fa-xing-square::before { content: "=EF=85=A9"; }
+
+.fa-youtube-play::before { content: "=EF=85=AA"; }
+
+.fa-dropbox::before { content: "=EF=85=AB"; }
+
+.fa-stack-overflow::before { content: "=EF=85=AC"; }
+
+.fa-instagram::before { content: "=EF=85=AD"; }
+
+.fa-flickr::before { content: "=EF=85=AE"; }
+
+.fa-adn::before { content: "=EF=85=B0"; }
+
+.fa-bitbucket::before { content: "=EF=85=B1"; }
+
+.fa-bitbucket-square::before { content: "=EF=85=B2"; }
+
+.fa-tumblr::before { content: "=EF=85=B3"; }
+
+.fa-tumblr-square::before { content: "=EF=85=B4"; }
+
+.fa-long-arrow-down::before { content: "=EF=85=B5"; }
+
+.fa-long-arrow-up::before { content: "=EF=85=B6"; }
+
+.fa-long-arrow-left::before { content: "=EF=85=B7"; }
+
+.fa-long-arrow-right::before { content: "=EF=85=B8"; }
+
+.fa-apple::before { content: "=EF=85=B9"; }
+
+.fa-windows::before { content: "=EF=85=BA"; }
+
+.fa-android::before { content: "=EF=85=BB"; }
+
+.fa-linux::before { content: "=EF=85=BC"; }
+
+.fa-dribbble::before { content: "=EF=85=BD"; }
+
+.fa-skype::before { content: "=EF=85=BE"; }
+
+.fa-foursquare::before { content: "=EF=86=80"; }
+
+.fa-trello::before { content: "=EF=86=81"; }
+
+.fa-female::before { content: "=EF=86=82"; }
+
+.fa-male::before { content: "=EF=86=83"; }
+
+.fa-gittip::before, .fa-gratipay::before { content: "=EF=86=84"; }
+
+.fa-sun-o::before { content: "=EF=86=85"; }
+
+.fa-moon-o::before { content: "=EF=86=86"; }
+
+.fa-archive::before { content: "=EF=86=87"; }
+
+.fa-bug::before { content: "=EF=86=88"; }
+
+.fa-vk::before { content: "=EF=86=89"; }
+
+.fa-weibo::before { content: "=EF=86=8A"; }
+
+.fa-renren::before { content: "=EF=86=8B"; }
+
+.fa-pagelines::before { content: "=EF=86=8C"; }
+
+.fa-stack-exchange::before { content: "=EF=86=8D"; }
+
+.fa-arrow-circle-o-right::before { content: "=EF=86=8E"; }
+
+.fa-arrow-circle-o-left::before { content: "=EF=86=90"; }
+
+.fa-toggle-left::before, .fa-caret-square-o-left::before { content: "=EF=86=
+=91"; }
+
+.fa-dot-circle-o::before { content: "=EF=86=92"; }
+
+.fa-wheelchair::before { content: "=EF=86=93"; }
+
+.fa-vimeo-square::before { content: "=EF=86=94"; }
+
+.fa-turkish-lira::before, .fa-try::before { content: "=EF=86=95"; }
+
+.fa-plus-square-o::before { content: "=EF=86=96"; }
+
+.fa-space-shuttle::before { content: "=EF=86=97"; }
+
+.fa-slack::before { content: "=EF=86=98"; }
+
+.fa-envelope-square::before { content: "=EF=86=99"; }
+
+.fa-wordpress::before { content: "=EF=86=9A"; }
+
+.fa-openid::before { content: "=EF=86=9B"; }
+
+.fa-institution::before, .fa-bank::before, .fa-university::before { content=
+: "=EF=86=9C"; }
+
+.fa-mortar-board::before, .fa-graduation-cap::before { content: "=EF=86=9D"=
+; }
+
+.fa-yahoo::before { content: "=EF=86=9E"; }
+
+.fa-google::before { content: "=EF=86=A0"; }
+
+.fa-reddit::before { content: "=EF=86=A1"; }
+
+.fa-reddit-square::before { content: "=EF=86=A2"; }
+
+.fa-stumbleupon-circle::before { content: "=EF=86=A3"; }
+
+.fa-stumbleupon::before { content: "=EF=86=A4"; }
+
+.fa-delicious::before { content: "=EF=86=A5"; }
+
+.fa-digg::before { content: "=EF=86=A6"; }
+
+.fa-pied-piper-pp::before { content: "=EF=86=A7"; }
+
+.fa-pied-piper-alt::before { content: "=EF=86=A8"; }
+
+.fa-drupal::before { content: "=EF=86=A9"; }
+
+.fa-joomla::before { content: "=EF=86=AA"; }
+
+.fa-language::before { content: "=EF=86=AB"; }
+
+.fa-fax::before { content: "=EF=86=AC"; }
+
+.fa-building::before { content: "=EF=86=AD"; }
+
+.fa-child::before { content: "=EF=86=AE"; }
+
+.fa-paw::before { content: "=EF=86=B0"; }
+
+.fa-spoon::before { content: "=EF=86=B1"; }
+
+.fa-cube::before { content: "=EF=86=B2"; }
+
+.fa-cubes::before { content: "=EF=86=B3"; }
+
+.fa-behance::before { content: "=EF=86=B4"; }
+
+.fa-behance-square::before { content: "=EF=86=B5"; }
+
+.fa-steam::before { content: "=EF=86=B6"; }
+
+.fa-steam-square::before { content: "=EF=86=B7"; }
+
+.fa-recycle::before { content: "=EF=86=B8"; }
+
+.fa-automobile::before, .fa-car::before { content: "=EF=86=B9"; }
+
+.fa-cab::before, .fa-taxi::before { content: "=EF=86=BA"; }
+
+.fa-tree::before { content: "=EF=86=BB"; }
+
+.fa-spotify::before { content: "=EF=86=BC"; }
+
+.fa-deviantart::before { content: "=EF=86=BD"; }
+
+.fa-soundcloud::before { content: "=EF=86=BE"; }
+
+.fa-database::before { content: "=EF=87=80"; }
+
+.fa-file-pdf-o::before { content: "=EF=87=81"; }
+
+.fa-file-word-o::before { content: "=EF=87=82"; }
+
+.fa-file-excel-o::before { content: "=EF=87=83"; }
+
+.fa-file-powerpoint-o::before { content: "=EF=87=84"; }
+
+.fa-file-photo-o::before, .fa-file-picture-o::before, .fa-file-image-o::bef=
+ore { content: "=EF=87=85"; }
+
+.fa-file-zip-o::before, .fa-file-archive-o::before { content: "=EF=87=86"; =
+}
+
+.fa-file-sound-o::before, .fa-file-audio-o::before { content: "=EF=87=87"; =
+}
+
+.fa-file-movie-o::before, .fa-file-video-o::before { content: "=EF=87=88"; =
+}
+
+.fa-file-code-o::before { content: "=EF=87=89"; }
+
+.fa-vine::before { content: "=EF=87=8A"; }
+
+.fa-codepen::before { content: "=EF=87=8B"; }
+
+.fa-jsfiddle::before { content: "=EF=87=8C"; }
+
+.fa-life-bouy::before, .fa-life-buoy::before, .fa-life-saver::before, .fa-s=
+upport::before, .fa-life-ring::before { content: "=EF=87=8D"; }
+
+.fa-circle-o-notch::before { content: "=EF=87=8E"; }
+
+.fa-ra::before, .fa-resistance::before, .fa-rebel::before { content: "=EF=
+=87=90"; }
+
+.fa-ge::before, .fa-empire::before { content: "=EF=87=91"; }
+
+.fa-git-square::before { content: "=EF=87=92"; }
+
+.fa-git::before { content: "=EF=87=93"; }
+
+.fa-y-combinator-square::before, .fa-yc-square::before, .fa-hacker-news::be=
+fore { content: "=EF=87=94"; }
+
+.fa-tencent-weibo::before { content: "=EF=87=95"; }
+
+.fa-qq::before { content: "=EF=87=96"; }
+
+.fa-wechat::before, .fa-weixin::before { content: "=EF=87=97"; }
+
+.fa-send::before, .fa-paper-plane::before { content: "=EF=87=98"; }
+
+.fa-send-o::before, .fa-paper-plane-o::before { content: "=EF=87=99"; }
+
+.fa-history::before { content: "=EF=87=9A"; }
+
+.fa-circle-thin::before { content: "=EF=87=9B"; }
+
+.fa-header::before { content: "=EF=87=9C"; }
+
+.fa-paragraph::before { content: "=EF=87=9D"; }
+
+.fa-sliders::before { content: "=EF=87=9E"; }
+
+.fa-share-alt::before { content: "=EF=87=A0"; }
+
+.fa-share-alt-square::before { content: "=EF=87=A1"; }
+
+.fa-bomb::before { content: "=EF=87=A2"; }
+
+.fa-soccer-ball-o::before, .fa-futbol-o::before { content: "=EF=87=A3"; }
+
+.fa-tty::before { content: "=EF=87=A4"; }
+
+.fa-binoculars::before { content: "=EF=87=A5"; }
+
+.fa-plug::before { content: "=EF=87=A6"; }
+
+.fa-slideshare::before { content: "=EF=87=A7"; }
+
+.fa-twitch::before { content: "=EF=87=A8"; }
+
+.fa-yelp::before { content: "=EF=87=A9"; }
+
+.fa-newspaper-o::before { content: "=EF=87=AA"; }
+
+.fa-wifi::before { content: "=EF=87=AB"; }
+
+.fa-calculator::before { content: "=EF=87=AC"; }
+
+.fa-paypal::before { content: "=EF=87=AD"; }
+
+.fa-google-wallet::before { content: "=EF=87=AE"; }
+
+.fa-cc-visa::before { content: "=EF=87=B0"; }
+
+.fa-cc-mastercard::before { content: "=EF=87=B1"; }
+
+.fa-cc-discover::before { content: "=EF=87=B2"; }
+
+.fa-cc-amex::before { content: "=EF=87=B3"; }
+
+.fa-cc-paypal::before { content: "=EF=87=B4"; }
+
+.fa-cc-stripe::before { content: "=EF=87=B5"; }
+
+.fa-bell-slash::before { content: "=EF=87=B6"; }
+
+.fa-bell-slash-o::before { content: "=EF=87=B7"; }
+
+.fa-trash::before { content: "=EF=87=B8"; }
+
+.fa-copyright::before { content: "=EF=87=B9"; }
+
+.fa-at::before { content: "=EF=87=BA"; }
+
+.fa-eyedropper::before { content: "=EF=87=BB"; }
+
+.fa-paint-brush::before { content: "=EF=87=BC"; }
+
+.fa-birthday-cake::before { content: "=EF=87=BD"; }
+
+.fa-area-chart::before { content: "=EF=87=BE"; }
+
+.fa-pie-chart::before { content: "=EF=88=80"; }
+
+.fa-line-chart::before { content: "=EF=88=81"; }
+
+.fa-lastfm::before { content: "=EF=88=82"; }
+
+.fa-lastfm-square::before { content: "=EF=88=83"; }
+
+.fa-toggle-off::before { content: "=EF=88=84"; }
+
+.fa-toggle-on::before { content: "=EF=88=85"; }
+
+.fa-bicycle::before { content: "=EF=88=86"; }
+
+.fa-bus::before { content: "=EF=88=87"; }
+
+.fa-ioxhost::before { content: "=EF=88=88"; }
+
+.fa-angellist::before { content: "=EF=88=89"; }
+
+.fa-cc::before { content: "=EF=88=8A"; }
+
+.fa-shekel::before, .fa-sheqel::before, .fa-ils::before { content: "=EF=88=
+=8B"; }
+
+.fa-meanpath::before { content: "=EF=88=8C"; }
+
+.fa-buysellads::before { content: "=EF=88=8D"; }
+
+.fa-connectdevelop::before { content: "=EF=88=8E"; }
+
+.fa-dashcube::before { content: "=EF=88=90"; }
+
+.fa-forumbee::before { content: "=EF=88=91"; }
+
+.fa-leanpub::before { content: "=EF=88=92"; }
+
+.fa-sellsy::before { content: "=EF=88=93"; }
+
+.fa-shirtsinbulk::before { content: "=EF=88=94"; }
+
+.fa-simplybuilt::before { content: "=EF=88=95"; }
+
+.fa-skyatlas::before { content: "=EF=88=96"; }
+
+.fa-cart-plus::before { content: "=EF=88=97"; }
+
+.fa-cart-arrow-down::before { content: "=EF=88=98"; }
+
+.fa-diamond::before { content: "=EF=88=99"; }
+
+.fa-ship::before { content: "=EF=88=9A"; }
+
+.fa-user-secret::before { content: "=EF=88=9B"; }
+
+.fa-motorcycle::before { content: "=EF=88=9C"; }
+
+.fa-street-view::before { content: "=EF=88=9D"; }
+
+.fa-heartbeat::before { content: "=EF=88=9E"; }
+
+.fa-venus::before { content: "=EF=88=A1"; }
+
+.fa-mars::before { content: "=EF=88=A2"; }
+
+.fa-mercury::before { content: "=EF=88=A3"; }
+
+.fa-intersex::before, .fa-transgender::before { content: "=EF=88=A4"; }
+
+.fa-transgender-alt::before { content: "=EF=88=A5"; }
+
+.fa-venus-double::before { content: "=EF=88=A6"; }
+
+.fa-mars-double::before { content: "=EF=88=A7"; }
+
+.fa-venus-mars::before { content: "=EF=88=A8"; }
+
+.fa-mars-stroke::before { content: "=EF=88=A9"; }
+
+.fa-mars-stroke-v::before { content: "=EF=88=AA"; }
+
+.fa-mars-stroke-h::before { content: "=EF=88=AB"; }
+
+.fa-neuter::before { content: "=EF=88=AC"; }
+
+.fa-genderless::before { content: "=EF=88=AD"; }
+
+.fa-facebook-official::before { content: "=EF=88=B0"; }
+
+.fa-pinterest-p::before { content: "=EF=88=B1"; }
+
+.fa-whatsapp::before { content: "=EF=88=B2"; }
+
+.fa-server::before { content: "=EF=88=B3"; }
+
+.fa-user-plus::before { content: "=EF=88=B4"; }
+
+.fa-user-times::before { content: "=EF=88=B5"; }
+
+.fa-hotel::before, .fa-bed::before { content: "=EF=88=B6"; }
+
+.fa-viacoin::before { content: "=EF=88=B7"; }
+
+.fa-train::before { content: "=EF=88=B8"; }
+
+.fa-subway::before { content: "=EF=88=B9"; }
+
+.fa-medium::before { content: "=EF=88=BA"; }
+
+.fa-yc::before, .fa-y-combinator::before { content: "=EF=88=BB"; }
+
+.fa-optin-monster::before { content: "=EF=88=BC"; }
+
+.fa-opencart::before { content: "=EF=88=BD"; }
+
+.fa-expeditedssl::before { content: "=EF=88=BE"; }
+
+.fa-battery-4::before, .fa-battery-full::before { content: "=EF=89=80"; }
+
+.fa-battery-3::before, .fa-battery-three-quarters::before { content: "=EF=
+=89=81"; }
+
+.fa-battery-2::before, .fa-battery-half::before { content: "=EF=89=82"; }
+
+.fa-battery-1::before, .fa-battery-quarter::before { content: "=EF=89=83"; =
+}
+
+.fa-battery-0::before, .fa-battery-empty::before { content: "=EF=89=84"; }
+
+.fa-mouse-pointer::before { content: "=EF=89=85"; }
+
+.fa-i-cursor::before { content: "=EF=89=86"; }
+
+.fa-object-group::before { content: "=EF=89=87"; }
+
+.fa-object-ungroup::before { content: "=EF=89=88"; }
+
+.fa-sticky-note::before { content: "=EF=89=89"; }
+
+.fa-sticky-note-o::before { content: "=EF=89=8A"; }
+
+.fa-cc-jcb::before { content: "=EF=89=8B"; }
+
+.fa-cc-diners-club::before { content: "=EF=89=8C"; }
+
+.fa-clone::before { content: "=EF=89=8D"; }
+
+.fa-balance-scale::before { content: "=EF=89=8E"; }
+
+.fa-hourglass-o::before { content: "=EF=89=90"; }
+
+.fa-hourglass-1::before, .fa-hourglass-start::before { content: "=EF=89=91"=
+; }
+
+.fa-hourglass-2::before, .fa-hourglass-half::before { content: "=EF=89=92";=
+ }
+
+.fa-hourglass-3::before, .fa-hourglass-end::before { content: "=EF=89=93"; =
+}
+
+.fa-hourglass::before { content: "=EF=89=94"; }
+
+.fa-hand-grab-o::before, .fa-hand-rock-o::before { content: "=EF=89=95"; }
+
+.fa-hand-stop-o::before, .fa-hand-paper-o::before { content: "=EF=89=96"; }
+
+.fa-hand-scissors-o::before { content: "=EF=89=97"; }
+
+.fa-hand-lizard-o::before { content: "=EF=89=98"; }
+
+.fa-hand-spock-o::before { content: "=EF=89=99"; }
+
+.fa-hand-pointer-o::before { content: "=EF=89=9A"; }
+
+.fa-hand-peace-o::before { content: "=EF=89=9B"; }
+
+.fa-trademark::before { content: "=EF=89=9C"; }
+
+.fa-registered::before { content: "=EF=89=9D"; }
+
+.fa-creative-commons::before { content: "=EF=89=9E"; }
+
+.fa-gg::before { content: "=EF=89=A0"; }
+
+.fa-gg-circle::before { content: "=EF=89=A1"; }
+
+.fa-tripadvisor::before { content: "=EF=89=A2"; }
+
+.fa-odnoklassniki::before { content: "=EF=89=A3"; }
+
+.fa-odnoklassniki-square::before { content: "=EF=89=A4"; }
+
+.fa-get-pocket::before { content: "=EF=89=A5"; }
+
+.fa-wikipedia-w::before { content: "=EF=89=A6"; }
+
+.fa-safari::before { content: "=EF=89=A7"; }
+
+.fa-chrome::before { content: "=EF=89=A8"; }
+
+.fa-firefox::before { content: "=EF=89=A9"; }
+
+.fa-opera::before { content: "=EF=89=AA"; }
+
+.fa-internet-explorer::before { content: "=EF=89=AB"; }
+
+.fa-tv::before, .fa-television::before { content: "=EF=89=AC"; }
+
+.fa-contao::before { content: "=EF=89=AD"; }
+
+.fa-500px::before { content: "=EF=89=AE"; }
+
+.fa-amazon::before { content: "=EF=89=B0"; }
+
+.fa-calendar-plus-o::before { content: "=EF=89=B1"; }
+
+.fa-calendar-minus-o::before { content: "=EF=89=B2"; }
+
+.fa-calendar-times-o::before { content: "=EF=89=B3"; }
+
+.fa-calendar-check-o::before { content: "=EF=89=B4"; }
+
+.fa-industry::before { content: "=EF=89=B5"; }
+
+.fa-map-pin::before { content: "=EF=89=B6"; }
+
+.fa-map-signs::before { content: "=EF=89=B7"; }
+
+.fa-map-o::before { content: "=EF=89=B8"; }
+
+.fa-map::before { content: "=EF=89=B9"; }
+
+.fa-commenting::before { content: "=EF=89=BA"; }
+
+.fa-commenting-o::before { content: "=EF=89=BB"; }
+
+.fa-houzz::before { content: "=EF=89=BC"; }
+
+.fa-vimeo::before { content: "=EF=89=BD"; }
+
+.fa-black-tie::before { content: "=EF=89=BE"; }
+
+.fa-fonticons::before { content: "=EF=8A=80"; }
+
+.fa-reddit-alien::before { content: "=EF=8A=81"; }
+
+.fa-edge::before { content: "=EF=8A=82"; }
+
+.fa-credit-card-alt::before { content: "=EF=8A=83"; }
+
+.fa-codiepie::before { content: "=EF=8A=84"; }
+
+.fa-modx::before { content: "=EF=8A=85"; }
+
+.fa-fort-awesome::before { content: "=EF=8A=86"; }
+
+.fa-usb::before { content: "=EF=8A=87"; }
+
+.fa-product-hunt::before { content: "=EF=8A=88"; }
+
+.fa-mixcloud::before { content: "=EF=8A=89"; }
+
+.fa-scribd::before { content: "=EF=8A=8A"; }
+
+.fa-pause-circle::before { content: "=EF=8A=8B"; }
+
+.fa-pause-circle-o::before { content: "=EF=8A=8C"; }
+
+.fa-stop-circle::before { content: "=EF=8A=8D"; }
+
+.fa-stop-circle-o::before { content: "=EF=8A=8E"; }
+
+.fa-shopping-bag::before { content: "=EF=8A=90"; }
+
+.fa-shopping-basket::before { content: "=EF=8A=91"; }
+
+.fa-hashtag::before { content: "=EF=8A=92"; }
+
+.fa-bluetooth::before { content: "=EF=8A=93"; }
+
+.fa-bluetooth-b::before { content: "=EF=8A=94"; }
+
+.fa-percent::before { content: "=EF=8A=95"; }
+
+.fa-gitlab::before { content: "=EF=8A=96"; }
+
+.fa-wpbeginner::before { content: "=EF=8A=97"; }
+
+.fa-wpforms::before { content: "=EF=8A=98"; }
+
+.fa-envira::before { content: "=EF=8A=99"; }
+
+.fa-universal-access::before { content: "=EF=8A=9A"; }
+
+.fa-wheelchair-alt::before { content: "=EF=8A=9B"; }
+
+.fa-question-circle-o::before { content: "=EF=8A=9C"; }
+
+.fa-blind::before { content: "=EF=8A=9D"; }
+
+.fa-audio-description::before { content: "=EF=8A=9E"; }
+
+.fa-volume-control-phone::before { content: "=EF=8A=A0"; }
+
+.fa-braille::before { content: "=EF=8A=A1"; }
+
+.fa-assistive-listening-systems::before { content: "=EF=8A=A2"; }
+
+.fa-asl-interpreting::before, .fa-american-sign-language-interpreting::befo=
+re { content: "=EF=8A=A3"; }
+
+.fa-deafness::before, .fa-hard-of-hearing::before, .fa-deaf::before { conte=
+nt: "=EF=8A=A4"; }
+
+.fa-glide::before { content: "=EF=8A=A5"; }
+
+.fa-glide-g::before { content: "=EF=8A=A6"; }
+
+.fa-signing::before, .fa-sign-language::before { content: "=EF=8A=A7"; }
+
+.fa-low-vision::before { content: "=EF=8A=A8"; }
+
+.fa-viadeo::before { content: "=EF=8A=A9"; }
+
+.fa-viadeo-square::before { content: "=EF=8A=AA"; }
+
+.fa-snapchat::before { content: "=EF=8A=AB"; }
+
+.fa-snapchat-ghost::before { content: "=EF=8A=AC"; }
+
+.fa-snapchat-square::before { content: "=EF=8A=AD"; }
+
+.fa-pied-piper::before { content: "=EF=8A=AE"; }
+
+.fa-first-order::before { content: "=EF=8A=B0"; }
+
+.fa-yoast::before { content: "=EF=8A=B1"; }
+
+.fa-themeisle::before { content: "=EF=8A=B2"; }
+
+.fa-google-plus-circle::before, .fa-google-plus-official::before { content:=
+ "=EF=8A=B3"; }
+
+.fa-fa::before, .fa-font-awesome::before { content: "=EF=8A=B4"; }
+
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0px; margi=
+n: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); border: 0px; }
+
+.sr-only-focusable:active, .sr-only-focusable:focus { position: static; wid=
+th: auto; height: auto; margin: 0px; overflow: visible; clip: auto; }
+------MultipartBoundary--AWsi4gbz60zdKiDj7eJhZUSlLNY9fVP6pCJATC0OLi----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.39.2/codemirror.min.css
+
+@charset "utf-8";
+
+.CodeMirror { font-family: monospace; height: 300px; color: rgb(0, 0, 0); d=
+irection: ltr; }
+
+.CodeMirror-lines { padding: 4px 0px; }
+
+.CodeMirror pre { padding: 0px 4px; }
+
+.CodeMirror-gutter-filler, .CodeMirror-scrollbar-filler { background-color:=
+ rgb(255, 255, 255); }
+
+.CodeMirror-gutters { border-right: 1px solid rgb(221, 221, 221); backgroun=
+d-color: rgb(247, 247, 247); white-space: nowrap; }
+
+.CodeMirror-linenumber { padding: 0px 3px 0px 5px; min-width: 20px; text-al=
+ign: right; color: rgb(153, 153, 153); white-space: nowrap; }
+
+.CodeMirror-guttermarker { color: rgb(0, 0, 0); }
+
+.CodeMirror-guttermarker-subtle { color: rgb(153, 153, 153); }
+
+.CodeMirror-cursor { border-left: 1px solid rgb(0, 0, 0); border-right: non=
+e; width: 0px; }
+
+.CodeMirror div.CodeMirror-secondarycursor { border-left: 1px solid silver;=
+ }
+
+.cm-fat-cursor .CodeMirror-cursor { width: auto; background: rgb(119, 238, =
+119); border: 0px !important; }
+
+.cm-fat-cursor div.CodeMirror-cursors { z-index: 1; }
+
+.cm-fat-cursor-mark { background-color: rgba(20, 255, 20, 0.5); animation: =
+1.06s steps(1) 0s infinite normal none running blink; }
+
+.cm-animate-fat-cursor { width: auto; border: 0px; animation: 1.06s steps(1=
+) 0s infinite normal none running blink; background-color: rgb(119, 238, 11=
+9); }
+
+@-webkit-keyframes blink {=20
+  50% { background-color: transparent; }
+}
+
+@keyframes blink {=20
+  50% { background-color: transparent; }
+}
+
+.cm-tab { display: inline-block; text-decoration: inherit; }
+
+.CodeMirror-rulers { position: absolute; inset: -50px 0px -20px; overflow: =
+hidden; }
+
+.CodeMirror-ruler { border-left: 1px solid rgb(204, 204, 204); top: 0px; bo=
+ttom: 0px; position: absolute; }
+
+.cm-s-default .cm-header { color: rgb(0, 0, 255); }
+
+.cm-s-default .cm-quote { color: rgb(0, 153, 0); }
+
+.cm-negative { color: rgb(221, 68, 68); }
+
+.cm-positive { color: rgb(34, 153, 34); }
+
+.cm-header, .cm-strong { font-weight: 700; }
+
+.cm-em { font-style: italic; }
+
+.cm-link { text-decoration: underline; }
+
+.cm-strikethrough { text-decoration: line-through; }
+
+.cm-s-default .cm-keyword { color: rgb(119, 0, 136); }
+
+.cm-s-default .cm-atom { color: rgb(34, 17, 153); }
+
+.cm-s-default .cm-number { color: rgb(17, 102, 68); }
+
+.cm-s-default .cm-def { color: rgb(0, 0, 255); }
+
+.cm-s-default .cm-variable-2 { color: rgb(0, 85, 170); }
+
+.cm-s-default .cm-type, .cm-s-default .cm-variable-3 { color: rgb(0, 136, 8=
+5); }
+
+.cm-s-default .cm-comment { color: rgb(170, 85, 0); }
+
+.cm-s-default .cm-string { color: rgb(170, 17, 17); }
+
+.cm-s-default .cm-string-2 { color: rgb(255, 85, 0); }
+
+.cm-s-default .cm-meta { color: rgb(85, 85, 85); }
+
+.cm-s-default .cm-qualifier { color: rgb(85, 85, 85); }
+
+.cm-s-default .cm-builtin { color: rgb(51, 0, 170); }
+
+.cm-s-default .cm-bracket { color: rgb(153, 153, 119); }
+
+.cm-s-default .cm-tag { color: rgb(17, 119, 0); }
+
+.cm-s-default .cm-attribute { color: rgb(0, 0, 204); }
+
+.cm-s-default .cm-hr { color: rgb(153, 153, 153); }
+
+.cm-s-default .cm-link { color: rgb(0, 0, 204); }
+
+.cm-s-default .cm-error { color: red; }
+
+.cm-invalidchar { color: red; }
+
+.CodeMirror-composing { border-bottom: 2px solid; }
+
+div.CodeMirror span.CodeMirror-matchingbracket { color: rgb(0, 187, 0); }
+
+div.CodeMirror span.CodeMirror-nonmatchingbracket { color: rgb(170, 34, 34)=
+; }
+
+.CodeMirror-matchingtag { background: rgba(255, 150, 0, 0.3); }
+
+.CodeMirror-activeline-background { background: rgb(232, 242, 255); }
+
+.CodeMirror { position: relative; overflow: hidden; background: rgb(255, 25=
+5, 255); }
+
+.CodeMirror-scroll { margin-bottom: -30px; margin-right: -30px; padding-bot=
+tom: 30px; height: 100%; outline: 0px; position: relative; overflow: scroll=
+ !important; }
+
+.CodeMirror-sizer { position: relative; border-right: 30px solid transparen=
+t; }
+
+.CodeMirror-gutter-filler, .CodeMirror-hscrollbar, .CodeMirror-scrollbar-fi=
+ller, .CodeMirror-vscrollbar { position: absolute; z-index: 6; display: non=
+e; }
+
+.CodeMirror-vscrollbar { right: 0px; top: 0px; overflow: hidden scroll; }
+
+.CodeMirror-hscrollbar { bottom: 0px; left: 0px; overflow: scroll hidden; }
+
+.CodeMirror-scrollbar-filler { right: 0px; bottom: 0px; }
+
+.CodeMirror-gutter-filler { left: 0px; bottom: 0px; }
+
+.CodeMirror-gutters { position: absolute; left: 0px; top: 0px; min-height: =
+100%; z-index: 3; }
+
+.CodeMirror-gutter { white-space: normal; height: 100%; display: inline-blo=
+ck; vertical-align: top; margin-bottom: -30px; }
+
+.CodeMirror-gutter-wrapper { position: absolute; z-index: 4; background: 0p=
+x 0px !important; border: none !important; }
+
+.CodeMirror-gutter-background { position: absolute; top: 0px; bottom: 0px; =
+z-index: 4; }
+
+.CodeMirror-gutter-elt { position: absolute; cursor: default; z-index: 4; }
+
+.CodeMirror-gutter-wrapper ::selection { background-color: transparent; }
+
+.CodeMirror-lines { cursor: text; min-height: 1px; }
+
+.CodeMirror pre { border-radius: 0px; border-width: 0px; background: 0px 0p=
+x; font-family: inherit; font-size: inherit; margin: 0px; white-space: pre;=
+ overflow-wrap: normal; line-height: inherit; color: inherit; z-index: 2; p=
+osition: relative; overflow: visible; -webkit-tap-highlight-color: transpar=
+ent; font-variant-ligatures: contextual; }
+
+.CodeMirror-wrap pre { overflow-wrap: break-word; white-space: pre-wrap; wo=
+rd-break: normal; }
+
+.CodeMirror-linebackground { position: absolute; inset: 0px; z-index: 0; }
+
+.CodeMirror-linewidget { position: relative; z-index: 2; padding: 0.1px; }
+
+.CodeMirror-rtl pre { direction: rtl; }
+
+.CodeMirror-code { outline: 0px; }
+
+.CodeMirror-gutter, .CodeMirror-gutters, .CodeMirror-linenumber, .CodeMirro=
+r-scroll, .CodeMirror-sizer { box-sizing: content-box; }
+
+.CodeMirror-measure { position: absolute; width: 100%; height: 0px; overflo=
+w: hidden; visibility: hidden; }
+
+.CodeMirror-cursor { position: absolute; pointer-events: none; }
+
+.CodeMirror-measure pre { position: static; }
+
+div.CodeMirror-cursors { visibility: hidden; position: relative; z-index: 3=
+; }
+
+div.CodeMirror-dragcursors { visibility: visible; }
+
+.CodeMirror-focused div.CodeMirror-cursors { visibility: visible; }
+
+.CodeMirror-selected { background: rgb(217, 217, 217); }
+
+.CodeMirror-focused .CodeMirror-selected { background: rgb(215, 212, 240); =
+}
+
+.CodeMirror-crosshair { cursor: crosshair; }
+
+.CodeMirror-line::selection, .CodeMirror-line > span::selection, .CodeMirro=
+r-line > span > span::selection { background: rgb(215, 212, 240); }
+
+.cm-searching { background-color: rgba(255, 255, 0, 0.4); }
+
+.cm-force-border { padding-right: 0.1px; }
+
+@media print {
+  .CodeMirror div.CodeMirror-cursors { visibility: hidden; }
+}
+
+.cm-tab-wrap-hack::after { content: ""; }
+
+span.CodeMirror-selectedtext { background: 0px 0px; }
+------MultipartBoundary--AWsi4gbz60zdKiDj7eJhZUSlLNY9fVP6pCJATC0OLi----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.39.2/addon/lint/lint.min.css
+
+@charset "utf-8";
+
+.CodeMirror-lint-markers { width: 16px; }
+
+.CodeMirror-lint-tooltip { background-color: rgb(255, 255, 221); border: 1p=
+x solid rgb(0, 0, 0); border-radius: 4px; color: rgb(0, 0, 0); font-family:=
+ monospace; font-size: 10pt; overflow: hidden; padding: 2px 5px; position: =
+fixed; white-space: pre-wrap; z-index: 100; max-width: 600px; opacity: 0; t=
+ransition: opacity 0.4s ease 0s; }
+
+.CodeMirror-lint-mark-error, .CodeMirror-lint-mark-warning { background-pos=
+ition: left bottom; background-repeat: repeat-x; }
+
+.CodeMirror-lint-mark-error { background-image: url("data:image/png;base64,=
+iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8=
+A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9sJDw4cOCW1/KIAAAAZdEVYdE=
+NvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAAHElEQVQI12NggIL/DAz/GdA5/xkY/qPKM=
+DAwAADLZwf5rvm+LQAAAABJRU5ErkJggg=3D=3D"); }
+
+.CodeMirror-lint-mark-warning { background-image: url("data:image/png;base6=
+4,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAAAXNSR0IArs4c6QAAAAZiS0dEA=
+P8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9sJFhQXEbhTg7YAAAAZdEVY=
+dENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAAMklEQVQI12NkgIIvJ3QXMjAwdDN+OaE=
+bysDA4MPAwNDNwMCwiOHLCd1zX07o6kBVGQEAKBANtobskNMAAAAASUVORK5CYII=3D"); }
+
+.CodeMirror-lint-marker-error, .CodeMirror-lint-marker-warning { background=
+-position: center center; background-repeat: no-repeat; cursor: pointer; di=
+splay: inline-block; height: 16px; width: 16px; vertical-align: middle; pos=
+ition: relative; }
+
+.CodeMirror-lint-message-error, .CodeMirror-lint-message-warning { padding-=
+left: 18px; background-position: left top; background-repeat: no-repeat; }
+
+.CodeMirror-lint-marker-error, .CodeMirror-lint-message-error { background-=
+image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoL=
+Q9TAAAAHlBMVEW7AAC7AACxAAC7AAC7AAAAAAC4AAC5AAD///+7AAAUdclpAAAABnRSTlMXnORS=
+iwCK0ZKSAAAATUlEQVR42mWPOQ7AQAgDuQLx/z8csYRmPRIFIwRGnosRrpamvkKi0FTIiMASR3h=
+hKW+hAN6/tIWhu9PDWiTGNEkTtIOucA5Oyr9ckPgAWm0GPBog6v4AAAAASUVORK5CYII=3D"); =
+}
+
+.CodeMirror-lint-marker-warning, .CodeMirror-lint-message-warning { backgro=
+und-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAA=
+AAoLQ9TAAAANlBMVEX/uwDvrwD/uwD/uwD/uwD/uwD/uwD/uwD/uwD6twD/uwAAAADurwD2tQD7=
+uAD+ugAAAAD/uwDhmeTRAAAADHRSTlMJ8mN1EYcbmiixgACm7WbuAAAAVklEQVR42n3PUQqAIBB=
+FUU1LLc3u/jdbOJoW1P08DA9Gba8+YWJ6gNJoNYIBzAA2chBth5kLmG9YUoG0NHAUwFXwO9LuBQ=
+L1giCQb8gC9Oro2vp5rncCIY8L8uEx5ZkAAAAASUVORK5CYII=3D"); }
+
+.CodeMirror-lint-marker-multiple { background-image: url("data:image/png;ba=
+se64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAMAAADzjKfhAAAACVBMVEUAAAAAAAC/v7914k=
+yHAAAAAXRSTlMAQObYZgAAACNJREFUeNo1ioEJAAAIwmz/H90iFFSGJgFMe3gaLZ0od+9/AQZ0A=
+DosbYraAAAAAElFTkSuQmCC"); background-repeat: no-repeat; background-positio=
+n: right bottom; width: 100%; height: 100%; }
+------MultipartBoundary--AWsi4gbz60zdKiDj7eJhZUSlLNY9fVP6pCJATC0OLi----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.39.2/addon/hint/show-hint.css
+
+@charset "utf-8";
+
+.CodeMirror-hints { position: absolute; z-index: 10; overflow: hidden auto;=
+ list-style: none; margin: 0px; padding: 2px; box-shadow: rgba(0, 0, 0, 0.2=
+) 2px 3px 5px; border-radius: 3px; border: 1px solid silver; background: wh=
+ite; font-size: 90%; font-family: monospace; max-height: 20em; }
+
+.CodeMirror-hint { margin: 0px; padding: 0px 4px; border-radius: 2px; white=
+-space: pre; color: black; cursor: pointer; }
+
+li.CodeMirror-hint-active { background: rgb(0, 136, 255); color: white; }
+------MultipartBoundary--AWsi4gbz60zdKiDj7eJhZUSlLNY9fVP6pCJATC0OLi----
+Content-Type: text/html
+Content-ID: <frame-4BAF78525E83A282C5ECA2A3565B3FD6@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-18203e=
+fe-1ddf-4e45-8736-d70f3bcd9b47@mhtml.blink" /><link rel=3D"stylesheet" type=
+=3D"text/css" href=3D"cid:css-3b43e72d-caeb-43e7-9331-096c4c622bbb@mhtml.bl=
+ink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-cd6eef87-=
+735a-4ee8-8ffa-0ab6a6980277@mhtml.blink" /><link rel=3D"stylesheet" type=3D=
+"text/css" href=3D"cid:css-e96cdb1c-1729-4c64-935a-7211aa6f7d2e@mhtml.blink=
+" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-3f54921f-1c9=
+2-4082-b3f5-6266daf483fd@mhtml.blink" /><meta name=3D"viewport" content=3D"=
+width=3Ddevice-width, initial-scale=3D1"><link href=3D"https://fonts.google=
+apis.com/css2?family=3DOpen+Sans:wght@600&amp;display=3Dswap&amp;text=3DGiv=
+e%20Feedback" g-font=3D"1" rel=3D"stylesheet"></head><body><div id=3D"lmaz6=
+beo-ohw9rzqzenc"><section id=3D"c1" style=3D"text-align: right; box-sizing:=
+ border-box;"><section id=3D"c2" style=3D"background-color: rgb(93, 101, 11=
+7); border-radius: 7px; display: inline-block; color: rgb(255, 255, 255); l=
+ine-height: 30px; font-size: 13px; font-family: &quot;Open Sans&quot;; font=
+-weight: 600; vertical-align: baseline; padding: 0px 12px; box-sizing: bord=
+er-box;"><span style=3D"white-space: pre-wrap;">Give Feedback</span></secti=
+on></section></div></body></html>
+------MultipartBoundary--AWsi4gbz60zdKiDj7eJhZUSlLNY9fVP6pCJATC0OLi----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-18203efe-1ddf-4e45-8736-d70f3bcd9b47@mhtml.blink
+
+@charset "utf-8";
+
+html, body { width: 100%; height: 100%; padding: 0px; margin: 0px; overflow=
+: hidden; user-select: none; }
+
+* { box-sizing: border-box; }
+------MultipartBoundary--AWsi4gbz60zdKiDj7eJhZUSlLNY9fVP6pCJATC0OLi----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-3b43e72d-caeb-43e7-9331-096c4c622bbb@mhtml.blink
+
+@charset "utf-8";
+
+#no-ani-sizer-host { position: fixed; left: -1px; top: -1px; opacity: 0; wi=
+dth: 1px !important; height: 1px !important; pointer-events: none !importan=
+t; }
+
+#no-ani-sizer-host * { pointer-events: none !important; transition: none 0s=
+ ease 0s !important; opacity: 1 !important; box-shadow: none !important; }
+
+#no-ani-sizer { display: inline-block; }
+------MultipartBoundary--AWsi4gbz60zdKiDj7eJhZUSlLNY9fVP6pCJATC0OLi----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-cd6eef87-735a-4ee8-8ffa-0ab6a6980277@mhtml.blink
+
+@charset "utf-8";
+
+@font-face { font-family: appzi-icons; src: url("https://w.appzi.io/assets/=
+fonts/appzi-icons-v2300-tuyd1m.ttf?s03sm1") format("truetype"), url("https:=
+//w.appzi.io/assets/fonts/appzi-icons-v2300-tuyd1m.woff?s03sm1") format("wo=
+ff"); font-weight: normal; font-style: normal; }
+
+.appzi-font-icon { font-style: normal; font-weight: normal; font-variant: n=
+ormal; text-transform: none; line-height: 1; -webkit-font-smoothing: antial=
+iased; display: inline-block; font-family: appzi-icons !important; }
+------MultipartBoundary--AWsi4gbz60zdKiDj7eJhZUSlLNY9fVP6pCJATC0OLi----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-e96cdb1c-1729-4c64-935a-7211aa6f7d2e@mhtml.blink
+
+@charset "utf-8";
+
+#lmaz6beo-ohw9rzqzenc { height: 100vh; overflow: hidden; }
+
+#lmaz6beo-ohw9rzqzenc > * { height: 100vh; }
+------MultipartBoundary--AWsi4gbz60zdKiDj7eJhZUSlLNY9fVP6pCJATC0OLi----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-3f54921f-1c92-4082-b3f5-6266daf483fd@mhtml.blink
+
+@charset "utf-8";
+
+#c2 { color: rgb(255, 255, 255); background-color: rgb(93, 101, 117); }
+------MultipartBoundary--AWsi4gbz60zdKiDj7eJhZUSlLNY9fVP6pCJATC0OLi----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap&text=Give%20Feedback
+
+@charset "utf-8";
+
+@font-face { font-family: "Open Sans"; font-style: normal; font-weight: 600=
+; font-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.c=
+om/l/font?kit=3DmemSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4ie1w=
+eg-5xHFIj_XRVaA&skey=3D62c1cbfccc78b4b2&v=3Dv35") format("woff2"); }
+------MultipartBoundary--AWsi4gbz60zdKiDj7eJhZUSlLNY9fVP6pCJATC0OLi----
+Content-Type: text/html
+Content-ID: <frame-74BA66A54C49EE6A9A7446DA6F1D3C69@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-5b30b3=
+04-693f-45ee-a49f-a0b9dc461e14@mhtml.blink" /><link rel=3D"stylesheet" type=
+=3D"text/css" href=3D"cid:css-828d9ad4-6f54-4652-bd18-986321106459@mhtml.bl=
+ink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-7a4f4116-=
+890f-469d-842f-4572dbdc750e@mhtml.blink" /><link rel=3D"stylesheet" type=3D=
+"text/css" href=3D"cid:css-53b40e6d-35f8-4294-bd86-aacd74d3ed4e@mhtml.blink=
+" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-c4ff2ec9-439=
+9-4e0b-9aad-bf7dc374b6aa@mhtml.blink" /><meta name=3D"viewport" content=3D"=
+width=3Ddevice-width, initial-scale=3D1"></head><body><div id=3D"lmaz6bfb-x=
+4qzvvwkfvg" style=3D"border-radius: 7px;"><section id=3D"c1" style=3D"backg=
+round-color: rgb(64, 163, 63); display: flex; cursor: pointer; color: rgb(2=
+55, 255, 255); text-align: center; box-sizing: border-box; align-items: cen=
+ter;"><section id=3D"c2" style=3D"width: 100%; box-sizing: border-box;"><sp=
+an id=3D"lmaz6bsn-u7a0m840bq" style=3D"padding: 18px; line-height: 23px; fo=
+nt-size: 23px; display: inline-block; box-sizing: border-box; height: 59px;=
+"><span class=3D"appzi-font-icon" style=3D"transform: none;">=EE=A4=86</spa=
+n></span></section></section></div></body></html>
+------MultipartBoundary--AWsi4gbz60zdKiDj7eJhZUSlLNY9fVP6pCJATC0OLi----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-5b30b304-693f-45ee-a49f-a0b9dc461e14@mhtml.blink
+
+@charset "utf-8";
+
+html, body { width: 100%; height: 100%; padding: 0px; margin: 0px; overflow=
+: hidden; user-select: none; }
+
+* { box-sizing: border-box; }
+------MultipartBoundary--AWsi4gbz60zdKiDj7eJhZUSlLNY9fVP6pCJATC0OLi----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-828d9ad4-6f54-4652-bd18-986321106459@mhtml.blink
+
+@charset "utf-8";
+
+#no-ani-sizer-host { position: fixed; left: -1px; top: -1px; opacity: 0; wi=
+dth: 1px !important; height: 1px !important; pointer-events: none !importan=
+t; }
+
+#no-ani-sizer-host * { pointer-events: none !important; transition: none 0s=
+ ease 0s !important; opacity: 1 !important; box-shadow: none !important; }
+
+#no-ani-sizer { display: inline-block; }
+------MultipartBoundary--AWsi4gbz60zdKiDj7eJhZUSlLNY9fVP6pCJATC0OLi----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-7a4f4116-890f-469d-842f-4572dbdc750e@mhtml.blink
+
+@charset "utf-8";
+
+@font-face { font-family: appzi-icons; src: url("https://w.appzi.io/assets/=
+fonts/appzi-icons-v2300-tuyd1m.ttf?s03sm1") format("truetype"), url("https:=
+//w.appzi.io/assets/fonts/appzi-icons-v2300-tuyd1m.woff?s03sm1") format("wo=
+ff"); font-weight: normal; font-style: normal; }
+
+.appzi-font-icon { font-style: normal; font-weight: normal; font-variant: n=
+ormal; text-transform: none; line-height: 1; -webkit-font-smoothing: antial=
+iased; display: inline-block; font-family: appzi-icons !important; }
+------MultipartBoundary--AWsi4gbz60zdKiDj7eJhZUSlLNY9fVP6pCJATC0OLi----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-53b40e6d-35f8-4294-bd86-aacd74d3ed4e@mhtml.blink
+
+@charset "utf-8";
+
+#lmaz6bfb-x4qzvvwkfvg { height: 100vh; overflow: hidden; }
+
+#lmaz6bfb-x4qzvvwkfvg > * { height: 100vh; }
+------MultipartBoundary--AWsi4gbz60zdKiDj7eJhZUSlLNY9fVP6pCJATC0OLi----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-c4ff2ec9-4399-4e0b-9aad-bf7dc374b6aa@mhtml.blink
+
+@charset "utf-8";
+
+#c1 { color: rgb(255, 255, 255); background-color: rgb(64, 163, 63); }
+------MultipartBoundary--AWsi4gbz60zdKiDj7eJhZUSlLNY9fVP6pCJATC0OLi------

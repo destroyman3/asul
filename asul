@@ -1,0 +1,33 @@
+import java.util.Scanner;
+import java.lang.Math;
+class TANGA {
+  	public static void main(String[] args) {
+    Scanner main = new Scanner(System.in);  
+	System.out.println("first numba");
+    int var1 = main.nextInt();
+    System.out.println("second numba");
+    int var2 = main.nextInt();
+    double var3 = Math.sqrt(var1*var1+var2*var2);
+    boolean isPrime = true;
+      
+    for(int i=2;i<var3;i++){
+    if (var3%i==0){
+    isPrime = false;
+      break;
+    }
+    }
+    System.out.println("OK ONE OF THESE NUMBERS IS RIGHT PRETEND THE OTHER AIN'T THERE OK USE YOUR COMMON SENSE TO DETERMINE");
+    System.out.println(var3);
+	if (isPrime){
+      	if (var1>var2){
+          System.out.println(Math.sqrt(var1*var1-var2*var2));
+        }else{
+          System.out.println(Math.sqrt(var2*var2-var1*var1));
+          //SOMEONE FIX THIS SHED PLS ;-; THIS IS SO HELPLESS :sob://
+        }
+      
+    }
+      
+      
+ }
+}

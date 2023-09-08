@@ -1,0 +1,37 @@
+import java.util.Scanner;  
+
+class asul {
+  public static void main(String[] args) {
+    Scanner main = new Scanner(System.in);  
+    System.out.println("enter something you did last night");
+    String var1 = main.nextLine();  
+    System.out.println("enter a place");
+    String var2 = main.nextLine();
+    System.out.println("enter an object");
+    String var3 = main.nextLine();
+    System.out.println("enter an object");
+    String var4 = main.nextLine();
+    System.out.println("enter a verb in past tense");
+    String var5 = main.nextLine();
+    System.out.println("enter an object");
+    String var6 = main.nextLine();
+    System.out.println("enter an object");
+    String var7 = main.nextLine();
+    System.out.println("enter a celebrity");
+    String var8 = main.nextLine();
+    System.out.println("enter an object");
+    String var9 = main.nextLine();
+    System.out.println("enter an object");
+    String var10 = main.nextLine();
+    System.out.println("enter an object or a part of the celebrity's body");
+    String var11 = main.nextLine();
+    System.out.println("enter a sentense/quote");
+    String var12 = main.nextLine();
+    System.out.println("enter something you own");
+    String var13 = main.nextLine();
+    System.out.println("I forgor fart >:( hamkachan :index_pointing_at_the_viewer:");
+    
+    
+    System.out.println("After "+var1+" last night, you woke up in a "+var2+". You grabbed the "+var3+" on the side of your "+var13+" on top of the "+var4+" and you "+var5+" towards the "+var6+". You pulled open the "+var7+" and fell on your knees—You see "+var8+" holding "+var9+" stepping on a "+var10+". after crushing the "+var10+" with his "+var11+" he looked at you and said: “"+var12+"”.");
+  }
+}

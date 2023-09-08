@@ -31,7 +31,18 @@ class asul {
     String var13 = main.nextLine();
     System.out.println("I forgor fart >:( hamkachan :index_pointing_at_the_viewer:");
     
-    
+    String var16 = "After "+var1+" last night, you woke up in a "+var2+". You grabbed the "+var3+" on the side of your "+var13+" on top of the "+var4+" and you "+var5+" towards the "+var6+". You pulled open the "+var7+" and fell on your knees—You see "+var8+" holding "+var9+" stepping on a "+var10+". after crushing the "+var10+" with his "+var11+" he looked at you and said: “"+var12+"”.";
+
+    int x = 1;
+  	int y = 0;
+  	int z = var16.length();
+ 	String var14 = "";
+  	while (y<=z)    {
+    String var15 = var16.substring(var16.length()-x);
+    x=++x;
+    y=++y;
+    System.out.println(var15);
+    }
     System.out.println("After "+var1+" last night, you woke up in a "+var2+". You grabbed the "+var3+" on the side of your "+var13+" on top of the "+var4+" and you "+var5+" towards the "+var6+". You pulled open the "+var7+" and fell on your knees—You see "+var8+" holding "+var9+" stepping on a "+var10+". after crushing the "+var10+" with his "+var11+" he looked at you and said: “"+var12+"”.");
   }
 }
